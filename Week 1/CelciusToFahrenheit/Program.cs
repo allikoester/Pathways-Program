@@ -22,29 +22,29 @@ Algorithm:
 using System;
 namespace CelciusToFahrenheit
 {
-  class Program
-  {
-    static void Main(string[] args)
+    class Program
     {
+        static void Main(string[] args)
+        {
 
-        // I.      Prompt the user for the Celsius temperature 
+            // I.      Prompt the user for the Celsius temperature 
 
             Console.Write("Please enter the Degree Celsius between 1 and 150 ");
 
-        // II.     Get the number that is the celsius temperature from the user
+            // II.     Get the number that is the celsius temperature from the user
 
             double degreesCelcius = Convert.ToDouble(Console.ReadLine());
 
-        // III.    Convert the number of feet to the number of inches 
+            // III.    Convert the number of feet to the number of inches 
 
-            double degreesFahrenheit = degreesCelcius *9/5 + 32;
-         
-
-        // IV.     Provide the number of inches back to the user 
-
-            Console.WriteLine("The Degrees Fahrenheit is " + degreesFahrenheit );
+            double degreesFahrenheit = degreesCelcius * 9 / 5 + 32;
 
 
-    } // end Main
-  } // end Program 
+            // IV.     Provide the number of inches back to the user 
+
+            Console.WriteLine("The degrees Fahrenheit is " + degreesFahrenheit);
+
+
+        } // end Main
+    } // end Program 
 } // end Namespace
