@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\bin\Debug\net7.0\CelciusToFahrenheit.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\bin\Debug\net7.0\CelciusToFahrenheit.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\bin\Debug\net7.0\CelciusToFahrenheit.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\bin\Debug\net7.0\CelciusToFahrenheit.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\bin\Debug\net7.0\CelciusToFahrenheit.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\CelciusToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\CelciusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\CelciusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\CelciusToFahrenheit.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\CelciusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\CelciusToFahrenheit.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\refint\CelciusToFahrenheit.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\CelciusToFahrenheit.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\CelciusToFahrenheit.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\CelciusToFahrenheit\obj\Debug\net7.0\ref\CelciusToFahrenheit.dll

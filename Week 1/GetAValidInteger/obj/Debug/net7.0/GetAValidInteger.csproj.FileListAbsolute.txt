@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\bin\Debug\net7.0\GetAValidInteger.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\bin\Debug\net7.0\GetAValidInteger.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\bin\Debug\net7.0\GetAValidInteger.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\bin\Debug\net7.0\GetAValidInteger.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\bin\Debug\net7.0\GetAValidInteger.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\GetAValidInteger.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\GetAValidInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\GetAValidInteger.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\GetAValidInteger.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\GetAValidInteger.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\GetAValidInteger.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\refint\GetAValidInteger.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\GetAValidInteger.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\GetAValidInteger.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\GetAValidInteger\obj\Debug\net7.0\ref\GetAValidInteger.dll

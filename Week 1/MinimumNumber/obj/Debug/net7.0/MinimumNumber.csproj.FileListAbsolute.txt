@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\bin\Debug\net7.0\MinimumNumber.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\bin\Debug\net7.0\MinimumNumber.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\bin\Debug\net7.0\MinimumNumber.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\bin\Debug\net7.0\MinimumNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\bin\Debug\net7.0\MinimumNumber.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\MinimumNumber.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\MinimumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\MinimumNumber.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\MinimumNumber.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\MinimumNumber.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\MinimumNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\refint\MinimumNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\MinimumNumber.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\MinimumNumber.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MinimumNumber\obj\Debug\net7.0\ref\MinimumNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\bin\Debug\net7.0\NumberofPossibilities.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\bin\Debug\net7.0\NumberofPossibilities.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\bin\Debug\net7.0\NumberofPossibilities.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\bin\Debug\net7.0\NumberofPossibilities.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\bin\Debug\net7.0\NumberofPossibilities.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\NumberofPossibilities.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\NumberofPossibilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\NumberofPossibilities.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\NumberofPossibilities.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\NumberofPossibilities.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\NumberofPossibilities.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\refint\NumberofPossibilities.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\NumberofPossibilities.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\NumberofPossibilities.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\NumberOfPossibilities\obj\Debug\net7.0\ref\NumberofPossibilities.dll

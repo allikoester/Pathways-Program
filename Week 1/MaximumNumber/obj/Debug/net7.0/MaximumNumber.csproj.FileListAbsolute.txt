@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\bin\Debug\net7.0\MaximumNumber.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\bin\Debug\net7.0\MaximumNumber.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\bin\Debug\net7.0\MaximumNumber.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\bin\Debug\net7.0\MaximumNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\bin\Debug\net7.0\MaximumNumber.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\MaximumNumber.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\MaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\MaximumNumber.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\MaximumNumber.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\MaximumNumber.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\MaximumNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\refint\MaximumNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\MaximumNumber.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\MaximumNumber.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MaximumNumber\obj\Debug\net7.0\ref\MaximumNumber.dll

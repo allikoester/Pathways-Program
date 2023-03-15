@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\bin\Debug\net7.0\StudentScores.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\bin\Debug\net7.0\StudentScores.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\bin\Debug\net7.0\StudentScores.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\bin\Debug\net7.0\StudentScores.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\bin\Debug\net7.0\StudentScores.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\StudentScores.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\StudentScores.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\StudentScores.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\StudentScores.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\StudentScores.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\refint\StudentScores.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\StudentScores.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\StudentScores.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\studentscores\obj\Debug\net7.0\ref\StudentScores.dll

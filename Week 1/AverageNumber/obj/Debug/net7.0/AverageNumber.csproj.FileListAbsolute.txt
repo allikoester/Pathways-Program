@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\bin\Debug\net7.0\AverageNumber.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\bin\Debug\net7.0\AverageNumber.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\bin\Debug\net7.0\AverageNumber.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\bin\Debug\net7.0\AverageNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\bin\Debug\net7.0\AverageNumber.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\AverageNumber.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\AverageNumber.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\AverageNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\refint\AverageNumber.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\AverageNumber.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\AverageNumber.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\AverageNumber\obj\Debug\net7.0\ref\AverageNumber.dll

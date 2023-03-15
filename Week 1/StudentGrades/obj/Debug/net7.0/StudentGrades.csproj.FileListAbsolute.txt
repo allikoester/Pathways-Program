@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\bin\Debug\net7.0\StudentGrades.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\bin\Debug\net7.0\StudentGrades.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\bin\Debug\net7.0\StudentGrades.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\bin\Debug\net7.0\StudentGrades.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\bin\Debug\net7.0\StudentGrades.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\StudentGrades.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\StudentGrades.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\StudentGrades.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\refint\StudentGrades.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\StudentGrades.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\StudentGrades.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\StudentGrades\obj\Debug\net7.0\ref\StudentGrades.dll

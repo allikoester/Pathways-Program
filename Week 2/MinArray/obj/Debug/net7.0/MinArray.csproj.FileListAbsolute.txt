@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\MinArray.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\MinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\MinArray.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\MinArray.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\MinArray.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\bin\Debug\net7.0\MinArray.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\bin\Debug\net7.0\MinArray.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\bin\Debug\net7.0\MinArray.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\bin\Debug\net7.0\MinArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\bin\Debug\net7.0\MinArray.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\MinArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\refint\MinArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\MinArray.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\MinArray.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\minarray\obj\Debug\net7.0\ref\MinArray.dll

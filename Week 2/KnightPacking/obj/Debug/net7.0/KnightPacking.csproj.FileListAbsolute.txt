@@ -1,0 +1,45 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\bin\Debug\net7.0\KnightPacking.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\bin\Debug\net7.0\KnightPacking.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\bin\Debug\net7.0\KnightPacking.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\bin\Debug\net7.0\KnightPacking.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\bin\Debug\net7.0\KnightPacking.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\KnightPacking.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\KnightPacking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\KnightPacking.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\KnightPacking.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\KnightPacking.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\KnightPacking.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\refint\KnightPacking.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\KnightPacking.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\KnightPacking.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\KnightPacking\obj\Debug\net7.0\ref\KnightPacking.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\bin\Debug\net7.0\KnightPacking.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\bin\Debug\net7.0\KnightPacking.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\bin\Debug\net7.0\KnightPacking.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\bin\Debug\net7.0\KnightPacking.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\bin\Debug\net7.0\KnightPacking.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\KnightPacking.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\KnightPacking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\KnightPacking.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\KnightPacking.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\KnightPacking.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\KnightPacking.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\refint\KnightPacking.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\KnightPacking.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\KnightPacking.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\knightpacking\obj\Debug\net7.0\ref\KnightPacking.dll
+C:\Users\AKoester\Desktop\KnightPacking\bin\Debug\net7.0\KnightPacking.exe
+C:\Users\AKoester\Desktop\KnightPacking\bin\Debug\net7.0\KnightPacking.deps.json
+C:\Users\AKoester\Desktop\KnightPacking\bin\Debug\net7.0\KnightPacking.runtimeconfig.json
+C:\Users\AKoester\Desktop\KnightPacking\bin\Debug\net7.0\KnightPacking.dll
+C:\Users\AKoester\Desktop\KnightPacking\bin\Debug\net7.0\KnightPacking.pdb
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\KnightPacking.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\KnightPacking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\KnightPacking.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\KnightPacking.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\KnightPacking.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\KnightPacking.dll
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\refint\KnightPacking.dll
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\KnightPacking.pdb
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\KnightPacking.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\KnightPacking\obj\Debug\net7.0\ref\KnightPacking.dll

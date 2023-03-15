@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\bin\Debug\net7.0\AveArray.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\bin\Debug\net7.0\AveArray.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\bin\Debug\net7.0\AveArray.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\bin\Debug\net7.0\AveArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\bin\Debug\net7.0\AveArray.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\AveArray.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\AveArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\AveArray.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\AveArray.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\AveArray.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\AveArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\refint\AveArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\AveArray.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\AveArray.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\avearray\obj\Debug\net7.0\ref\AveArray.dll

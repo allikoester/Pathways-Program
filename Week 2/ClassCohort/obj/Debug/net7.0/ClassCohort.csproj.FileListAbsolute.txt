@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\bin\Debug\net7.0\ClassCohort.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\bin\Debug\net7.0\ClassCohort.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\bin\Debug\net7.0\ClassCohort.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\bin\Debug\net7.0\ClassCohort.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\bin\Debug\net7.0\ClassCohort.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ClassCohort.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ClassCohort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ClassCohort.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ClassCohort.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ClassCohort.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ClassCohort.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\refint\ClassCohort.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ClassCohort.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ClassCohort.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\classcohort\obj\Debug\net7.0\ref\ClassCohort.dll

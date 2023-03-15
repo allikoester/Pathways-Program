@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\bin\Debug\net7.0\QuadrantSelection.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\bin\Debug\net7.0\QuadrantSelection.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\bin\Debug\net7.0\QuadrantSelection.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\bin\Debug\net7.0\QuadrantSelection.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\bin\Debug\net7.0\QuadrantSelection.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\QuadrantSelection.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\QuadrantSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\QuadrantSelection.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\QuadrantSelection.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\QuadrantSelection.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\QuadrantSelection.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\refint\QuadrantSelection.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\QuadrantSelection.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\QuadrantSelection.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\QuadrantSelection\obj\Debug\net7.0\ref\QuadrantSelection.dll

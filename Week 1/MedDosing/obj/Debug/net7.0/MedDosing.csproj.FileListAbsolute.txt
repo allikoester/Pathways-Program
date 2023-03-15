@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\bin\Debug\net7.0\MedDosing.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\bin\Debug\net7.0\MedDosing.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\bin\Debug\net7.0\MedDosing.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\bin\Debug\net7.0\MedDosing.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\bin\Debug\net7.0\MedDosing.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\MedDosing.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\MedDosing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\MedDosing.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\MedDosing.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\MedDosing.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\MedDosing.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\refint\MedDosing.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\MedDosing.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\MedDosing.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\MedDosing\obj\Debug\net7.0\ref\MedDosing.dll

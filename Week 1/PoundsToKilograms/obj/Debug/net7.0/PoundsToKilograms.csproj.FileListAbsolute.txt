@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\bin\Debug\net7.0\PoundsToKilograms.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\bin\Debug\net7.0\PoundsToKilograms.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\bin\Debug\net7.0\PoundsToKilograms.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\bin\Debug\net7.0\PoundsToKilograms.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\bin\Debug\net7.0\PoundsToKilograms.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\PoundsToKilograms.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\PoundsToKilograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\PoundsToKilograms.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\PoundsToKilograms.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\PoundsToKilograms.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\PoundsToKilograms.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\refint\PoundsToKilograms.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\PoundsToKilograms.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\PoundsToKilograms.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\PoundsToKilograms\obj\Debug\net7.0\ref\PoundsToKilograms.dll

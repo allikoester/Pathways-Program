@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\filesample2.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\filesample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\filesample2.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\filesample2.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\filesample2.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\bin\Debug\net7.0\filesample2.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\bin\Debug\net7.0\filesample2.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\bin\Debug\net7.0\filesample2.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\bin\Debug\net7.0\filesample2.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\bin\Debug\net7.0\filesample2.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\filesample2.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\refint\filesample2.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\filesample2.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\filesample2.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\filesample2\obj\Debug\net7.0\ref\filesample2.dll

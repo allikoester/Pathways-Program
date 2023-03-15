@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\bin\Debug\net7.0\FeetToInches.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\bin\Debug\net7.0\FeetToInches.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\bin\Debug\net7.0\FeetToInches.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\bin\Debug\net7.0\FeetToInches.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\bin\Debug\net7.0\FeetToInches.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\FeetToInches.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\FeetToInches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\FeetToInches.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\FeetToInches.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\FeetToInches.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\FeetToInches.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\refint\FeetToInches.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\FeetToInches.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\FeetToInches.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\FeetToInches\obj\Debug\net7.0\ref\FeetToInches.dll

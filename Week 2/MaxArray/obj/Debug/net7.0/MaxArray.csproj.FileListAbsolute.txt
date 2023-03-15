@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\bin\Debug\net7.0\MaxArray.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\bin\Debug\net7.0\MaxArray.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\bin\Debug\net7.0\MaxArray.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\bin\Debug\net7.0\MaxArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\bin\Debug\net7.0\MaxArray.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\MaxArray.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\MaxArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\MaxArray.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\MaxArray.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\MaxArray.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\MaxArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\refint\MaxArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\MaxArray.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\MaxArray.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\maxarray\obj\Debug\net7.0\ref\MaxArray.dll

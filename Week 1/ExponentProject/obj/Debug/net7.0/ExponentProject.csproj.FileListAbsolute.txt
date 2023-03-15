@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\bin\Debug\net7.0\ExponentProject.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\bin\Debug\net7.0\ExponentProject.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\bin\Debug\net7.0\ExponentProject.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\bin\Debug\net7.0\ExponentProject.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\bin\Debug\net7.0\ExponentProject.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ExponentProject.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ExponentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ExponentProject.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ExponentProject.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ExponentProject.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ExponentProject.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\refint\ExponentProject.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ExponentProject.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ExponentProject.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 1\ExponentProject\obj\Debug\net7.0\ref\ExponentProject.dll
