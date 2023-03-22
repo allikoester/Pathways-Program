@@ -1,4 +1,7 @@
-﻿namespace HelloWorld
+﻿using System;
+using System.Collections.Generic;
+
+namespace ListClassCohort
 {
     class Program
     {
@@ -8,7 +11,7 @@
             // Declare variables
             bool userChoice;
             string userChoiceString;
-            string[] nameArray = new string[10];
+            List<string> nameList = new List<string>();
             const string FileName = "names.txt";
 
             // Repeat main loop
@@ -18,19 +21,16 @@
                 // TODO: Get a valid input
                 do
                 {
-                    //  Initialize variables
-
-                    // userChoice = false;
 
                     //  TODO: Provide the user a menu of options
 
                     Console.WriteLine("What's your pleasure? ");
-                    Console.WriteLine("L: Load the data file into an array.");
-                    Console.WriteLine("S: Save the array to the data file.");
-                    Console.WriteLine("C: Add a name to the array.");
-                    Console.WriteLine("R: Read a name from the array.");
-                    Console.WriteLine("U: Update a name in the array.");
-                    Console.WriteLine("D: Delete a name from the array.");
+                    Console.WriteLine("L: Load the data file into the list.");
+                    Console.WriteLine("S: Save the list to the data file.");
+                    Console.WriteLine("C: Add a name to the list.");
+                    Console.WriteLine("R: Read a name from the list.");
+                    Console.WriteLine("U: Update a name in the list.");
+                    Console.WriteLine("D: Delete a name from the list.");
                     Console.WriteLine("Q: Quit the program.");
 
                     //  TODO: Get a user option (valid means its on the menu)
@@ -54,29 +54,30 @@
 
                 } while (!userChoice);
 
-                //  TODO: If the option is L or l then load the text file (names.txt) into the array of strings (nameArray)
+                //  TODO: If the option is L or l then load the text file (names.txt) into the list of strings (nameList)
 
                 if (CheckInput(userChoiceString, new string[] { "l" }))
                 // if (userChoiceString == "L" || userChoiceString == "l")
                 {
                     Console.WriteLine("In the L/l area");
 
-                    int index = 0;  // index for my array
-                    using (StreamReader sr = File.OpenText(FileName))
+                    using (var sr = File.OpenText(FileName))
                     {
-                        string s = "";
+
                         Console.WriteLine(" Here is the content of the file names.txt : ");
-                        while ((s = sr.ReadLine()) != null)
+                        string name;
+                        while ((name = sr.ReadLine()) != null)
+                        {
+                            nameList.Add(name);
+                        }
+                        foreach (string s in nameList)
                         {
                             Console.WriteLine(s);
-                            nameArray[index] = s;
-                            index = index + 1;
                         }
-                        Console.WriteLine("");
                     }
                 }
 
-                //  TODO: Else if the option is an S or s then store the array of strings into the text file
+                //  TODO: Else if the option is an S or s then store the list of strings into the text file
 
                 else if (CheckInput(userChoiceString, new string[] { "s" }))
                 {
@@ -85,11 +86,11 @@
                     // using (StreamWriter sw = File.CreateText(FileName))
                     int index = 0;
                     using var sw = File.CreateText(FileName);
-                    foreach (string s in nameArray)
+                    foreach (string name in nameList)
                     {
-                        if (!string.IsNullOrEmpty(nameArray[index]))
+                        if (!string.IsNullOrEmpty(nameList[index]))
                         {
-                            sw.WriteLine(s);
+                            sw.WriteLine(name);
                         }
                     }
 
@@ -97,84 +98,64 @@
                     Console.WriteLine("");
                 }
 
-                //  TODO: Else if the option is a C or c then add a name to the array (if there's room)
-                // Is there room -- loop to compare to see if empty -- Do, while 
-                //If empty need to know index
-                // no space -- all full, error
-                // Give a string then add to index
+                //  TODO: Else if the option is a C or c then add a name to the list
+
 
                 else if (CheckInput(userChoiceString, new string[] { "c" }))
                 {
                     Console.WriteLine("In the C/c area");
 
                     string newName;
-                    bool foundOne = false;
 
-                    for (int index = 0; index < 10; index++)
+                    Console.WriteLine("Please enter new name. ");
+                    newName = Console.ReadLine();
+                    if (string.IsNullOrEmpty(newName))
                     {
-                        if (string.IsNullOrEmpty(nameArray[index]))
-                        {
-                            Console.WriteLine("Please enter new name. ");
-                            newName = Console.ReadLine();
-                            nameArray[index] = newName;
-                            foundOne = true;
-                            break;
-                        }
+                        Console.WriteLine("Please enter a valid name. ");
                     }
-                    if (!foundOne)
-                    {
-                        Console.WriteLine("Index if full. ");
-                        Console.WriteLine(" ");
-                    }
+                    nameList.Add(newName);
                 }
 
-                //  TODO: Else if the option is an R or r then print the array
+                //  TODO: Else if the option is an R or r then print the list
 
                 else if (CheckInput(userChoiceString, new string[] { "r" }))
                 {
                     Console.WriteLine("In the R/r area");
-                    for (int index = 0; index < 10; index++)
+
+                    foreach (string name in nameList)
                     {
-                        if (!string.IsNullOrEmpty(nameArray[index]))
-                        {
-                            Console.WriteLine(nameArray[index]);
-                        }
-
+                        Console.WriteLine(name);
                     }
-
                 }
-                //  TODO: Else if the option is a U or u then update a name in the array (if it's there)
+                //  TODO: Else if the option is a U or u then update a name in the list
                 // Get name first from user
-                // Is name in array 
+                // Is name in list 
                 // If not error
                 // If yes, what do you want to change to 
 
                 else if (CheckInput(userChoiceString, new string[] { "u" }))
                 {
                     Console.WriteLine("In the U/u area");
+
                     Console.WriteLine("Please enter name of student to update. ");
                     string nameEntered = Console.ReadLine();
-                    bool foundOne = false;
-
-                    for (int index = 0; index < nameArray.Length; index++)
+                    int index = FindIndex(nameEntered, nameList);
+                    if (index == -1)
                     {
-                        if (nameArray[index] == nameEntered)
-                        {
-                            Console.WriteLine("What would you like to update name to? ");
-                            string nameUpdated = Console.ReadLine();
-                            nameArray[index] = nameUpdated;
-                            foundOne = true;
-                            break;
-                        }
+                        Console.WriteLine("Name not found. ");
                     }
-                    if (!foundOne)
+                    else
                     {
-                        Console.WriteLine("Name entered does not match a name on the list. ");
+                        Console.WriteLine("What would you like to update name to? ");
+                        string nameUpdated = Console.ReadLine();
+                        nameList.Remove(nameEntered);
+                        nameList.Insert(index, nameUpdated);
                     }
 
                 }
 
-                //  TODO: Else if the option is a D or d then delete the name in the array (if it's there)
+
+                //  TODO: Else if the option is a D or d then delete the name in the list (if it's there)
                 // Get name from user
                 // is name in array
                 // If not error
@@ -185,23 +166,18 @@
                     Console.WriteLine("In the D/d area");
                     Console.WriteLine("Please enter name of student to delete. ");
                     string nameEntered = Console.ReadLine();
-                    bool foundOne = false;
-
-                    for (int index = 0; index < nameArray.Length; index++)
+                    int index = FindIndex(nameEntered, nameList);
+                    if (index == -1)
                     {
-                        if (nameArray[index] == nameEntered)
-                        {
-                            nameArray[index] = string.Empty;
-                            foundOne = true;
-                            break;
-                        }
+                        Console.WriteLine("Name not found. ");
                     }
-                    if (!foundOne)
+                    else
                     {
-                        Console.WriteLine("Name entered does not match a name on the list. ");
+                        index = nameList.IndexOf(nameEntered);
+                        nameList.Remove(nameEntered);
                     }
-
                 }
+
                 //  TODO: Else if the option is a Q or q then quit the program
 
                 else
@@ -224,5 +200,22 @@
             }
             return false;
         }
+
+        static int FindIndex(string nameEntered, List<string> nameList)
+        {
+            // List<string> nameList = new List<string>();
+            int index = -1;
+            if (string.IsNullOrEmpty(nameEntered))
+            {
+                Console.WriteLine("Please enter a valid name. ");
+            }
+            else if (nameList.Contains(nameEntered))
+            {
+                index = nameList.IndexOf(nameEntered);
+            }
+
+            return index;
+        }
+
     }  // end program
 }  // end namespace
