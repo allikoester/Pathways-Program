@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\bin\Debug\net7.0\RestaurantTip.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\bin\Debug\net7.0\RestaurantTip.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\bin\Debug\net7.0\RestaurantTip.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\bin\Debug\net7.0\RestaurantTip.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\bin\Debug\net7.0\RestaurantTip.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\RestaurantTip.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\RestaurantTip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\RestaurantTip.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\RestaurantTip.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\RestaurantTip.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\RestaurantTip.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\refint\RestaurantTip.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\RestaurantTip.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\RestaurantTip.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\RestaurantTip\obj\Debug\net7.0\ref\RestaurantTip.dll
