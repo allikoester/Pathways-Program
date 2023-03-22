@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\bin\Debug\net7.0\BinarySearch.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\bin\Debug\net7.0\BinarySearch.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\bin\Debug\net7.0\BinarySearch.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\bin\Debug\net7.0\BinarySearch.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\bin\Debug\net7.0\BinarySearch.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\BinarySearch.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\refint\BinarySearch.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\BinarySearch.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\BinarySearch.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\BinarySearch\obj\Debug\net7.0\ref\BinarySearch.dll

@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\bin\Debug\net7.0\InheritanceExample.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\bin\Debug\net7.0\InheritanceExample.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\bin\Debug\net7.0\InheritanceExample.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\bin\Debug\net7.0\InheritanceExample.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\bin\Debug\net7.0\InheritanceExample.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\InheritanceExample.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\InheritanceExample.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\InheritanceExample.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\refint\InheritanceExample.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\InheritanceExample.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\InheritanceExample.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\InheritanceExample\obj\Debug\net7.0\ref\InheritanceExample.dll

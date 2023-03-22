@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\bin\Debug\net7.0\Shapes.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\bin\Debug\net7.0\Shapes.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\bin\Debug\net7.0\Shapes.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\bin\Debug\net7.0\Shapes.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\bin\Debug\net7.0\Shapes.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\Shapes.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\Shapes.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\Shapes.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\refint\Shapes.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\Shapes.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\Shapes.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\Shapes\obj\Debug\net7.0\ref\Shapes.dll

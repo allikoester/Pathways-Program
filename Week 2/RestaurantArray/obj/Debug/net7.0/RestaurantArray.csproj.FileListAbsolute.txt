@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\bin\Debug\net7.0\RestaurantArray.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\bin\Debug\net7.0\RestaurantArray.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\bin\Debug\net7.0\RestaurantArray.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\bin\Debug\net7.0\RestaurantArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\bin\Debug\net7.0\RestaurantArray.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\RestaurantArray.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\RestaurantArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\RestaurantArray.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\RestaurantArray.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\RestaurantArray.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\RestaurantArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\refint\RestaurantArray.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\RestaurantArray.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\RestaurantArray.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 2\RestaurantArray\obj\Debug\net7.0\ref\RestaurantArray.dll

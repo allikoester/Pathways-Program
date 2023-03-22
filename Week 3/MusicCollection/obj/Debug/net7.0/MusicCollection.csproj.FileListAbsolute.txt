@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\bin\Debug\net7.0\MusicCollection.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\bin\Debug\net7.0\MusicCollection.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\bin\Debug\net7.0\MusicCollection.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\bin\Debug\net7.0\MusicCollection.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\bin\Debug\net7.0\MusicCollection.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\MusicCollection.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\MusicCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\MusicCollection.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\MusicCollection.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\MusicCollection.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\MusicCollection.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\refint\MusicCollection.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\MusicCollection.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\MusicCollection.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicCollection\obj\Debug\net7.0\ref\MusicCollection.dll

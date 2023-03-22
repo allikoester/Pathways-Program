@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\bin\Debug\net7.0\SortingStones.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\bin\Debug\net7.0\SortingStones.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\bin\Debug\net7.0\SortingStones.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\bin\Debug\net7.0\SortingStones.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\bin\Debug\net7.0\SortingStones.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\SortingStones.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\SortingStones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\SortingStones.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\SortingStones.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\SortingStones.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\SortingStones.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\refint\SortingStones.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\SortingStones.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\SortingStones.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\SortingStones\obj\Debug\net7.0\ref\SortingStones.dll
