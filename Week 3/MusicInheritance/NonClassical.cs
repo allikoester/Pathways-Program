@@ -10,7 +10,7 @@ namespace MusicCollection
 
         public override string ToString()
         {
-            return base.ToString() + " the year the song was released was " + Year;
+            return base.ToString() + ", the year the song was released was " + Year;
         }
     } // end class 
 

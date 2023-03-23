@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\bin\Debug\net7.0\MusicInheritance.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\bin\Debug\net7.0\MusicInheritance.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\bin\Debug\net7.0\MusicInheritance.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\bin\Debug\net7.0\MusicInheritance.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\bin\Debug\net7.0\MusicInheritance.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\MusicInheritance.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\MusicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\MusicInheritance.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\MusicInheritance.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\MusicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\MusicInheritance.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\refint\MusicInheritance.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\MusicInheritance.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\MusicInheritance.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 3\MusicInheritance\obj\Debug\net7.0\ref\MusicInheritance.dll

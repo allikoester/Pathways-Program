@@ -10,7 +10,7 @@ namespace MusicCollection
 
         public override string ToString()
         {
-            return base.ToString() + " the genre is " + Genre;
+            return base.ToString() + ", the genre is " + Genre;
         }
     } // end class 
 

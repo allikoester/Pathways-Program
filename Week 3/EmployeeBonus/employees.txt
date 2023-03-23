@@ -1,0 +1,12 @@
+Alli
+Koester
+Salary
+50000
+Sammy
+Smith
+Hourly
+15
+Joe
+Jones
+Salary
+75000

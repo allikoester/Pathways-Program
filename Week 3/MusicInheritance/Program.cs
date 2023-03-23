@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
 namespace MusicCollection
 {
     class Program
@@ -22,6 +21,16 @@ namespace MusicCollection
 
             Classical song3 = new Classical("24 Prelude Op. 28", "Frederic Chopin", 2700, "Piano Sonata");
             Console.WriteLine(song3);
+
+            Console.WriteLine(" ");
+
+            NonClassical song4 = new NonClassical("Uptown Girl", "Billy Joel", 198, 1983);
+            Console.WriteLine(song4);
+
+            Console.WriteLine(" ");
+
+            Pop song5 = new Pop("Billie Jean", "Michael Jackson", 294, 1982, "Thriller");
+            Console.WriteLine(song5);
 
 
         } // end of Main
