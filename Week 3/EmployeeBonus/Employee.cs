@@ -11,12 +11,15 @@ namespace EmployeeBonus
 
         public double Bonus { get; set; }
 
+        public double Compensation;
+
 
         public Employee()
         {
             FirstName = " ";
             LastName = " ";
             TypeEmployment = " ";
+
         }
 
         public Employee(string firstName, string lastName, string typeEmployment)
@@ -24,6 +27,7 @@ namespace EmployeeBonus
             FirstName = firstName;
             LastName = lastName;
             TypeEmployment = typeEmployment;
+
         }
 
         public override string ToString()
