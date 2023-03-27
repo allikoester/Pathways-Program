@@ -5,7 +5,6 @@ namespace EmployeeBonus
 
         public double Compensation { get; set; }
 
-        public double Bonus { get; set; }
 
         public Hourly(string firstName, string lastName, string typeEmployment, double hourlyRate) : base(firstName, lastName, typeEmployment)
         {
@@ -14,14 +13,28 @@ namespace EmployeeBonus
 
         public override string ToString()
         {
-            return base.ToString() + ", the bonus amount is: $" + Bonus;
+            if (CalculateBonus() < 0)
+            {
+                return null;
+            }
+            return base.ToString() + ", the bonus amount is: $" + CalculateBonus();
         }
 
-        public override double CalculateBonus(double compensation)
+        public double CalculateBonus()
         {
-            double bonus = compensation * 80;
-            Bonus = bonus;
-            return bonus;
+            return Compensation * 80;
+        }
+        public override void WriteToFile(StreamWriter streamWriter)
+        {
+            streamWriter.WriteLine(FirstName);
+            streamWriter.WriteLine(LastName);
+            streamWriter.WriteLine(TypeEmployment);
+            streamWriter.WriteLine(Compensation);
+        }
+
+        public override void UpdateCompensation(double compensation)
+        {
+            Compensation = compensation;
         }
 
     } // end class

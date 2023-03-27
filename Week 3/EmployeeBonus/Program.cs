@@ -28,7 +28,7 @@ II. Do
             c. Write to console the text file and load into arrays
     D. Else if the option is 'Save'
         i. Open text file using streamWriter 
-        ii. Foreach employee in employee array 
+        ii. While array has inputs
             a. Write to text file 
     E. Else if the option is 'Add' if there is room
         i. Declare variables
@@ -68,7 +68,7 @@ II. Do
                 I. Delete employee first name
                 II. Delete employee last name
                 III. Delete employee type of employment
-                IV. Delete employee bonus
+                IV. Delete employee compensation
             b. If not error
     H. Else the option is 'Quit' 
 
@@ -76,10 +76,8 @@ II. Do
 
 namespace EmployeeBonus
 {
-
     class Program
     {
-
         static void Main(string[] args)
         {
             // I. Declare variables
@@ -166,22 +164,19 @@ namespace EmployeeBonus
                 else if (CheckInput(userChoiceString, new string[] { "s" }))
                 {
                     Console.WriteLine("In the S/s area");
+                    int index = 0;
 
                     // i. Open text file using streamWriter 
                     using var sw = File.CreateText(FileName);
                     {
-                        // ii. Foreach employee in Employee array 
-                        foreach (Employee employee in employeeArray)
+                        // ii. While array has input
+                        while ((employeeArray[index] != null))
                         {
-                            if (employee.FirstName != " ")
-                            {
-                                // a. Write to text file
-                                sw.WriteLine(employee.FirstName);
-                                sw.WriteLine(employee.LastName);
-                                sw.WriteLine(employee.TypeEmployment);
-                                sw.WriteLine(employee.Compensation);
-                            }
+                            // a. Write to text file
+                            employeeArray[index].WriteToFile(sw);
+                            index++;
                         }
+
                         Console.WriteLine("Text file saved. ");
                         Console.WriteLine("");
                     }
@@ -202,10 +197,10 @@ namespace EmployeeBonus
                     bool foundOne = false;
 
                     // ii. For each employee in employee array
-                    foreach (Employee employee in employeeArray)
+                    for (index = 0; index < employeeArray.Length; index++)
                     {
                         // a. If empty space
-                        if (employee == null)
+                        if (employeeArray[index] == null)
                         {
                             // I. Prompt user to input new employee first, last name, employment type, and compensation
                             // II. Get new items from the user
@@ -220,21 +215,39 @@ namespace EmployeeBonus
                             // IV. Calculate bonus
                             if (CheckInput(employmentType, new string[] { "h" }))
                             {
-                                Console.WriteLine("Please enter new employee hourly wage. ");
-                                compensation = Convert.ToDouble(Console.ReadLine());
+                                do
+                                {
+                                    Console.WriteLine("Please enter new employee hourly wage. ");
+                                    compensation = Convert.ToDouble(Console.ReadLine());
+                                    if (compensation < 0)
+                                    {
+                                        Console.WriteLine("Please enter a valid input. ");
+                                    }
+                                }
+                                while (compensation < 0);
+
                                 Hourly newEmployee = new Hourly(firstName, lastName, employmentType, compensation);
                                 employeeArray[index] = newEmployee;
-                                bonus = employeeArray[index].CalculateBonus(compensation);
+                                Console.WriteLine(newEmployee);
                             }
                             else if (CheckInput(employmentType, new string[] { "s" }))
                             {
-                                Console.WriteLine("Please enter new employee annual salary. ");
-                                compensation = Convert.ToDouble(Console.ReadLine());
+                                do
+                                {
+                                    Console.WriteLine("Please enter new employee annual salary. ");
+                                    compensation = Convert.ToDouble(Console.ReadLine());
+                                    if (compensation < 0)
+                                    {
+                                        Console.WriteLine("Please enter a valid input. ");
+                                    }
+                                }
+                                while (compensation < 0);
+
                                 Salary newEmployee = new Salary(firstName, lastName, employmentType, compensation);
                                 employeeArray[index] = newEmployee;
-                                bonus = employeeArray[index].CalculateBonus(compensation);
+                                Console.WriteLine(newEmployee);
                             }
-                            Console.WriteLine(employee);
+
                             foundOne = true;
                             break;
                         }
@@ -258,8 +271,7 @@ namespace EmployeeBonus
                         // a. If the space is not null
                         if (employee != null)
                         {
-                            // I. Calculate bonus and print out employee information
-                            double bonus = employee.CalculateBonus(employee.Compensation);
+                            //  I. Calculate bonus and print out employee information
                             Console.WriteLine(employee);
                         }
 
@@ -272,7 +284,120 @@ namespace EmployeeBonus
                     }
                 }
 
+                //  G. Else is the option is 'Update' 
+                else if (CheckInput(userChoiceString, new string[] { "u" }))
+                {
+                    Console.WriteLine("In the U/u area");
+                    string? userResponse;
 
+                    // i. Prompt user for name of employee
+                    Console.WriteLine("Please enter first name of employee to update. ");
+
+                    // ii. Get name of employee from user
+                    string? firstNameEntered = Console.ReadLine();
+                    bool foundOne = false;
+
+                    foreach (Employee employee in employeeArray)
+                    {
+                        // a. If employee is in array 
+                        if (employee.FirstName.ToUpper().Trim() == firstNameEntered.ToUpper().Trim())
+                        {
+                            // I. Does user want to change empoloyee first name?
+                            // A. If yes, update first name
+                            Console.WriteLine("What would you like to change first name to? ");
+                            string? firstNameUpdated = Console.ReadLine();
+                            employee.FirstName = firstNameUpdated;
+
+                            // II. Does user want to change employee last name?
+                            // A. If yes, update last name 
+                            Console.WriteLine("Press 'y' to update last name. Any other key to continue. ");
+                            userResponse = Console.ReadLine();
+                            if ((userResponse == "y") || (userResponse == "Y"))
+                            {
+                                Console.WriteLine("Please enter updated last name. ");
+                                string? lastNameUpdated = Console.ReadLine();
+                                employee.LastName = lastNameUpdated;
+                            }
+
+                            // III. Does user want to change type of employment and compensation? 
+                            // A. If yes, update 
+                            // V. Calculate bonus
+                            // VI. Write to console employee infomration
+                            Console.WriteLine("Press 'y' to update employment type and compensation. Any other key to continue. ");
+                            userResponse = Console.ReadLine();
+                            if ((userResponse == "y") || (userResponse == "Y"))
+                            {
+                                Console.WriteLine("Please enter updated employment type with either 'H' or 'S'. ");
+                                string? employmentTypeUpdated = Console.ReadLine();
+                                if (CheckInput(employmentTypeUpdated, new string[] { "h" }))
+                                {
+                                    Console.WriteLine("Please enter updated employee hourly wage. ");
+
+                                }
+                                else if (CheckInput(employmentTypeUpdated, new string[] { "s" }))
+                                {
+                                    Console.WriteLine("Please enter updated employee annual salary. ");
+                                }
+
+                                double compensationUpdated = Convert.ToDouble(Console.ReadLine());
+                                employee.UpdateCompensation(compensationUpdated);
+                                Console.WriteLine(employee);
+
+                            }
+
+                            foundOne = true;
+                            break;
+                        }
+                    }
+                    // b. If not error
+                    if (!foundOne)
+                    {
+                        Console.WriteLine("Name of employee was not found. ");
+                    }
+                }
+
+                // F. Else if the options is 'Delete'
+                else if (CheckInput(userChoiceString, new string[] { "d" }))
+                {
+                    Console.WriteLine("In the D/d area");
+
+                    // i. Prompt user for name of employee
+                    Console.WriteLine("Please enter first name of employee to delete. ");
+                    // ii. Get name of employee from user
+                    string? firstNameEntered = Console.ReadLine();
+                    bool foundOne = false;
+
+                    foreach (Employee employee in employeeArray)
+                    {
+                        // a. If employee is in array 
+                        if (employee.FirstName.ToUpper().Trim() == firstNameEntered.ToUpper().Trim())
+                        {
+                            Console.WriteLine("Press 'Y' to delete " + employee.FirstName + " " + employee.LastName);
+                            string? userResponse = Console.ReadLine();
+                            if ((userResponse == "y") || (userResponse == "Y"))
+                            {
+                                // I. Delete employee first name
+                                // II. Delete employee last name
+                                // III. Delete employee type of employment
+                                // IV. Delete employee compensation
+                                employee.FirstName = string.Empty;
+                                employee.LastName = string.Empty;
+                                employee.TypeEmployment = string.Empty;
+                                employee.UpdateCompensation(-1);
+
+                                Console.WriteLine("Employee deleted. \n");
+                            }
+                            foundOne = true;
+                            break;
+                        }
+                    }
+                    // b. If not error
+                    if (!foundOne)
+                    {
+                        Console.WriteLine("Name of employee was not found. ");
+                    }
+
+                }
 
                 else
                 {

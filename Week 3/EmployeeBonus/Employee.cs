@@ -9,10 +9,6 @@ namespace EmployeeBonus
 
         public string TypeEmployment { get; set; }
 
-        public double Bonus { get; set; }
-
-        public double Compensation;
-
 
         public Employee()
         {
@@ -35,12 +31,15 @@ namespace EmployeeBonus
             return "The employee is: " + FirstName + " " + LastName + ", employment type: " + TypeEmployment;
         }
 
-        public virtual double CalculateBonus(double compensation)
+        public virtual void WriteToFile(StreamWriter streamWriter)
         {
-            double bonus = 0.0;
-            Bonus = Bonus;
-            return bonus;
         }
+
+        public virtual void UpdateCompensation(double compensation)
+        {
+
+        }
+
 
     } // end class
 } // end namespace
