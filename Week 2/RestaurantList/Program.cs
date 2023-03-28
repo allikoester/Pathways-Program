@@ -226,12 +226,6 @@ namespace RestaurantList
                 }
 
                 // F.Else if the options is 'Delete'
-
-
-
-
-
-
                 else if (CheckInput(userChoiceString, new string[] { "d" }))
                 {
                     Console.WriteLine("In the D/d area");

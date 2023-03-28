@@ -261,120 +261,107 @@ namespace EmployeeBonusList
                     Console.WriteLine(" ");
                 }
 
-                // //  G. Else is the option is 'Update' 
-                // else if (CheckInput(userChoiceString, new string[] { "u" }))
-                // {
-                //     Console.WriteLine("In the U/u area");
-                //     string? userResponse;
+                //  G. Else is the option is 'Update' 
+                else if (CheckInput(userChoiceString, new string[] { "u" }))
+                {
+                    Console.WriteLine("In the U/u area");
+                    string? userResponse;
 
-                //     // i. Prompt user for name of employee
-                //     Console.WriteLine("Please enter first name of employee to update. ");
+                    // i. Prompt user for name of employee
+                    Console.WriteLine("Please enter first name of employee to update. ");
+                    string? firstNameEntered = Console.ReadLine();
 
-                //     // ii. Get name of employee from user
-                //     string? firstNameEntered = Console.ReadLine();
-                //     bool foundOne = false;
+                    // a. If employee is in list 
+                    int index = FindIndex(firstNameEntered, employeeList);
+                    if (index == -1)
+                    {
+                        Console.WriteLine("Employee not found. ");
+                    }
+                    else
+                    {
+                        // I. Does user want to change empoloyee first name?
+                        // A. If yes, update first name
+                        Console.WriteLine("What would you like to change first name to? ");
+                        string? firstNameUpdated = Console.ReadLine();
+                        employeeList[index].FirstName = firstNameUpdated;
 
-                //     foreach (Employee employee in employeeArray)
-                //     {
-                //         // a. If employee is in array 
-                //         if (employee.FirstName.ToUpper().Trim() == firstNameEntered.ToUpper().Trim())
-                //         {
-                //             // I. Does user want to change empoloyee first name?
-                //             // A. If yes, update first name
-                //             Console.WriteLine("What would you like to change first name to? ");
-                //             string? firstNameUpdated = Console.ReadLine();
-                //             employee.FirstName = firstNameUpdated;
+                        // employeeList[index].FirstName.Remove(index);
+                        // employeeList[index].FirstName.Insert(index, firstNameUpdated);
 
-                //             // II. Does user want to change employee last name?
-                //             // A. If yes, update last name 
-                //             Console.WriteLine("Press 'y' to update last name. Any other key to continue. ");
-                //             userResponse = Console.ReadLine();
-                //             if ((userResponse == "y") || (userResponse == "Y"))
-                //             {
-                //                 Console.WriteLine("Please enter updated last name. ");
-                //                 string? lastNameUpdated = Console.ReadLine();
-                //                 employee.LastName = lastNameUpdated;
-                //             }
+                        // II. Does user want to change employee last name?
+                        // A. If yes, update last name 
+                        Console.WriteLine("Press 'y' to update last name. Any other key to continue. ");
+                        userResponse = Console.ReadLine();
+                        if ((userResponse == "y") || (userResponse == "Y"))
+                        {
+                            Console.WriteLine("Please enter updated last name. ");
+                            string? lastNameUpdated = Console.ReadLine();
+                            employeeList[index].LastName = lastNameUpdated;
 
-                //             // III. Does user want to change type of employment and compensation? 
-                //             // A. If yes, update 
-                //             // V. Calculate bonus
-                //             // VI. Write to console employee infomration
-                //             Console.WriteLine("Press 'y' to update employment type and compensation. Any other key to continue. ");
-                //             userResponse = Console.ReadLine();
-                //             if ((userResponse == "y") || (userResponse == "Y"))
-                //             {
-                //                 Console.WriteLine("Please enter updated employment type with either 'H' or 'S'. ");
-                //                 string? employmentTypeUpdated = Console.ReadLine();
-                //                 if (CheckInput(employmentTypeUpdated, new string[] { "h" }))
-                //                 {
-                //                     Console.WriteLine("Please enter updated employee hourly wage. ");
+                            // employeeList[index].LastName.Remove(index);
+                            // employeeList[index].LastName.Insert(index, lastNameUpdated);
+                        }
 
-                //                 }
-                //                 else if (CheckInput(employmentTypeUpdated, new string[] { "s" }))
-                //                 {
-                //                     Console.WriteLine("Please enter updated employee annual salary. ");
-                //                 }
+                        // III. Does user want to change type of employment and compensation? 
+                        // A. If yes, update 
+                        // V. Calculate bonus
+                        // VI. Write to console employee infomration
+                        Console.WriteLine("Press 'y' to update employment type and compensation. Any other key to continue. ");
+                        userResponse = Console.ReadLine();
+                        if ((userResponse == "y") || (userResponse == "Y"))
+                        {
+                            Console.WriteLine("Please enter updated employment type with either 'H' or 'S'. ");
+                            string? employmentTypeUpdated = Console.ReadLine();
+                            if (CheckInput(employmentTypeUpdated, new string[] { "h" }))
+                            {
+                                Console.WriteLine("Please enter updated employee hourly wage. ");
 
-                //                 double compensationUpdated = Convert.ToDouble(Console.ReadLine());
-                //                 employee.UpdateCompensation(compensationUpdated);
-                //                 Console.WriteLine(employee);
+                            }
+                            else if (CheckInput(employmentTypeUpdated, new string[] { "s" }))
+                            {
+                                Console.WriteLine("Please enter updated employee annual salary. ");
+                            }
 
-                //             }
+                            double compensationUpdated = Convert.ToDouble(Console.ReadLine());
+                            employeeList[index].UpdateCompensation(compensationUpdated);
+                        }
+                        Console.WriteLine(employeeList[index].ToString());
+                        Console.WriteLine(" ");
+                    }
+                }
 
-                //             foundOne = true;
-                //             break;
-                //         }
-                //     }
-                //     // b. If not error
-                //     if (!foundOne)
-                //     {
-                //         Console.WriteLine("Name of employee was not found. ");
-                //     }
-                // }
 
                 // // F. Else if the options is 'Delete'
-                // else if (CheckInput(userChoiceString, new string[] { "d" }))
-                // {
-                //     Console.WriteLine("In the D/d area");
+                else if (CheckInput(userChoiceString, new string[] { "d" }))
+                {
+                    Console.WriteLine("In the D/d area");
 
-                //     // i. Prompt user for name of employee
-                //     Console.WriteLine("Please enter first name of employee to delete. ");
-                //     // ii. Get name of employee from user
-                //     string? firstNameEntered = Console.ReadLine();
-                //     bool foundOne = false;
+                    // i. Prompt user for name of employee
+                    Console.WriteLine("Please enter first name of employee to delete. ");
+                    // ii. Get name of employee from user
+                    string? firstNameEntered = Console.ReadLine();
 
-                //     foreach (Employee employee in employeeArray)
-                //     {
-                //         // a. If employee is in array 
-                //         if (employee.FirstName.ToUpper().Trim() == firstNameEntered.ToUpper().Trim())
-                //         {
-                //             Console.WriteLine("Press 'Y' to delete " + employee.FirstName + " " + employee.LastName);
-                //             string? userResponse = Console.ReadLine();
-                //             if ((userResponse == "y") || (userResponse == "Y"))
-                //             {
-                //                 // I. Delete employee first name
-                //                 // II. Delete employee last name
-                //                 // III. Delete employee type of employment
-                //                 // IV. Delete employee compensation
-                //                 employee.FirstName = string.Empty;
-                //                 employee.LastName = string.Empty;
-                //                 employee.TypeEmployment = string.Empty;
-                //                 employee.UpdateCompensation(-1);
+                    // a. If employee is in list 
+                    int index = FindIndex(firstNameEntered, employeeList);
 
-                //                 Console.WriteLine("Employee deleted. \n");
-                //             }
-                //             foundOne = true;
-                //             break;
-                //         }
-                //     }
-                //     // b. If not error
-                //     if (!foundOne)
-                //     {
-                //         Console.WriteLine("Name of employee was not found. ");
-                //     }
+                    // I. Delete employee information
+                    // b. If not error
+                    if (index == -1)
+                    {
+                        Console.WriteLine("Employee not found. ");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Press 'Y' to delete " + employeeList[index].FirstName + " " + employeeList[index].LastName);
+                        string userInput = Console.ReadLine();
+                        if ((userInput == "Y") || (userInput == "y"))
+                        {
+                            employeeList.Remove(employeeList[index]);
 
-                // }
+                            Console.WriteLine("Employee deleted. \n");
+                        }
+                    }
+                }
 
                 else
                 {
@@ -396,6 +383,21 @@ namespace EmployeeBonusList
             }
             return false;
         } // end CheckInput method 
+
+        static int FindIndex(string nameEntered, List<Employee> employeeList)
+        {
+            int index = -1;
+            if (string.IsNullOrEmpty(nameEntered))
+            {
+                Console.WriteLine("Please enter a valid name. ");
+            }
+            else
+            {
+                index = employeeList.FindIndex(employee => employee.FirstName == nameEntered);
+            }
+
+            return index;
+        } // end FindIndex method
 
 
     } // end class

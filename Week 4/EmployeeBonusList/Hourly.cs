@@ -37,9 +37,6 @@ namespace EmployeeBonusList
             Compensation = compensation;
         }
 
-        internal static void Add(string firstName, string lastName, string employmentType, double compensation)
-        {
-            throw new NotImplementedException();
-        }
+
     } // end class
 } // end namespace 
