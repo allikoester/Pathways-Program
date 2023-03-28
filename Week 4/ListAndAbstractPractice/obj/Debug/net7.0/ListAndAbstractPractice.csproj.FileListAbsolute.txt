@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\bin\Debug\net7.0\ListAndAbstractPractice.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\bin\Debug\net7.0\ListAndAbstractPractice.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\bin\Debug\net7.0\ListAndAbstractPractice.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\bin\Debug\net7.0\ListAndAbstractPractice.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\bin\Debug\net7.0\ListAndAbstractPractice.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ListAndAbstractPractice.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ListAndAbstractPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ListAndAbstractPractice.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ListAndAbstractPractice.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ListAndAbstractPractice.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ListAndAbstractPractice.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\refint\ListAndAbstractPractice.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ListAndAbstractPractice.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ListAndAbstractPractice.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\ListAndAbstractPractice\obj\Debug\net7.0\ref\ListAndAbstractPractice.dll
