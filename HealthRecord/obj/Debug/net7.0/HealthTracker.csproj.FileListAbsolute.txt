@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\bin\Debug\net7.0\HealthTracker.exe
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\bin\Debug\net7.0\HealthTracker.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\bin\Debug\net7.0\HealthTracker.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\bin\Debug\net7.0\HealthTracker.dll
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\bin\Debug\net7.0\HealthTracker.pdb
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\HealthTracker.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\HealthTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\HealthTracker.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\HealthTracker.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\HealthTracker.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\HealthTracker.dll
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\refint\HealthTracker.dll
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\HealthTracker.pdb
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\HealthTracker.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\HealthRecord\obj\Debug\net7.0\ref\HealthTracker.dll

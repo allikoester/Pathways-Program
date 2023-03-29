@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\bin\Debug\net7.0\EmployeeBonusInterface.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\bin\Debug\net7.0\EmployeeBonusInterface.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\bin\Debug\net7.0\EmployeeBonusInterface.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\bin\Debug\net7.0\EmployeeBonusInterface.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\bin\Debug\net7.0\EmployeeBonusInterface.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\EmployeeBonusInterface.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\EmployeeBonusInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\EmployeeBonusInterface.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\EmployeeBonusInterface.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\EmployeeBonusInterface.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\EmployeeBonusInterface.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\refint\EmployeeBonusInterface.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\EmployeeBonusInterface.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\EmployeeBonusInterface.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 4\EmployeeBonusInterface\obj\Debug\net7.0\ref\EmployeeBonusInterface.dll

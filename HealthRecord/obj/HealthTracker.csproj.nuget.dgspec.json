@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthTracker\\HealthTracker.csproj": {}
+    "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthRecord\\HealthTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthTracker\\HealthTracker.csproj": {
+    "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthRecord\\HealthTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthTracker\\HealthTracker.csproj",
+        "projectUniqueName": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthRecord\\HealthTracker.csproj",
         "projectName": "HealthTracker",
-        "projectPath": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthTracker\\HealthTracker.csproj",
+        "projectPath": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthRecord\\HealthTracker.csproj",
         "packagesPath": "C:\\Users\\AKoester\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthTracker\\obj\\",
+        "outputPath": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\HealthRecord\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKoester\\AppData\\Roaming\\NuGet\\NuGet.Config",

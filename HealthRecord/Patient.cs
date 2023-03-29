@@ -1,4 +1,4 @@
-namespace HealthTracker
+namespace HealthRecord
 {
     class Patient
     {
@@ -18,7 +18,7 @@ namespace HealthTracker
 
         public override string ToString()
         {
-            return "The patient is: " + FirstName + " " + LastName + ", date of birth is: " + DateOfBirth;
+            return "The patient is: " + FirstName + " " + LastName + ". Date of birth is: " + DateOfBirth + ". ";
         }
 
     } // end class
