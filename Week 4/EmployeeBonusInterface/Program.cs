@@ -6,7 +6,7 @@
         {
             // I. Declare variables
             bool userChoice;
-            string userChoiceString;
+            string? userChoiceString;
             List<Employee> employeeList = new List<Employee>();
             const string FileName = "employees.txt";
 

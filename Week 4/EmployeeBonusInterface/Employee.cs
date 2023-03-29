@@ -1,6 +1,6 @@
 namespace EmployeeBonusInterface
 {
-    class Employee
+    class Employee : IWriteToFile, IUpdateCompensation
     {
 
         public string FirstName { get; set; }
