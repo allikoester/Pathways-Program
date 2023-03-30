@@ -28,8 +28,8 @@ namespace TriangleArea
             } // end do 
             while ((h < 1) && (h > 1000) && (b < 1) && (b > 1000));
 
-            decimal triangleArea = (h * b) / 2;
-            decimal finalArea = decimal.Round(triangleArea, 7);
+            double triangleArea = (h * b) / 2;
+            double finalArea = Math.Round(triangleArea, 7);
             Console.Write(finalArea);
 
         } // end Main

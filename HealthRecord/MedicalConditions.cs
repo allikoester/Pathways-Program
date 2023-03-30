@@ -1,6 +1,6 @@
 namespace HealthRecord
 {
-    class MedicalConditions : Patient
+    class MedicalConditions
     {
 
 
