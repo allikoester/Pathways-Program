@@ -120,10 +120,7 @@ namespace BankClient
                 // D. Else if option choice is 'Deposit'
                 if (CheckInput(userChoiceString, new string[] { "D" }))
                 {
-                    accountID = GetAccountID(accountList);
-                    int index = GetIndex(accountID, accountList);
-                    double amountEntered = GetAmount();
-                    accountList[index].Deposit(accountID, amountEntered);
+                    MakeTransaction(userChoiceString, accountList);
 
                     Console.WriteLine(" ");
                 } // end Deposit if
@@ -131,10 +128,7 @@ namespace BankClient
                 // E. Else if option choice is 'Withdrawal'
                 if (CheckInput(userChoiceString, new string[] { "W" }))
                 {
-                    accountID = GetAccountID(accountList);
-                    int index = GetIndex(accountID, accountList);
-                    double amountEntered = GetAmount();
-                    accountList[index].Withdrawal(accountID, amountEntered);
+                    MakeTransaction(userChoiceString, accountList);
 
                     Console.WriteLine(" ");
 
@@ -174,25 +168,20 @@ namespace BankClient
             return index;
         } // end FindIndex method
 
-        static int GetAccountID(List<Account> accountLists)
-        {
-            // a. Prompt user for account ID
-            Console.WriteLine("Please enter account ID. ");
-
-            // b. Get account ID from user
-            int accountID = Convert.ToInt32(Console.ReadLine());
-
-            return accountID;
-        }
-
-        static int GetIndex(int accountID, List<Account> accountList)
+        static void MakeTransaction(string userInput, List<Account> accountList)
         {
             int index;
-            double amountEntered;
-
+            int accountID;
+            double transactionAmount;
             // i. Do 
             do
             {
+                // a. Prompt user for account ID
+                Console.WriteLine("Please enter account ID. ");
+
+                // b. Get account ID from user
+                accountID = Convert.ToInt32(Console.ReadLine());
+
                 // c. Find account index
                 index = FindIndex(accountID, accountList);
                 if (index == -1)
@@ -201,30 +190,33 @@ namespace BankClient
                 }
                 // While account ID is invalid
             } while (index == -1);
-            return index;
 
-        } // end AccountID method
-
-        static double GetAmount()
-        {
-            double amountEntered;
+            // ii. Do
             do
             {
-                // iii. Prompt user for withdrawal amount
-                Console.WriteLine("Please enter amount to withdraw. ");
+                // a. Prompt user for deposit amount
+                Console.WriteLine("Please enter transaction amount. ");
 
-                // iv. Get withdrawal amount from user 
-                amountEntered = Convert.ToDouble(Console.ReadLine());
+                // b. Get deposit amount from user 
+                transactionAmount = Convert.ToDouble(Console.ReadLine());
 
-                if (amountEntered <= 0)
+                if (transactionAmount <= 0)
                 {
-                    Console.WriteLine("Please enter a valid deposit amount greater than zero. ");
+                    Console.WriteLine("Please enter a valid amount greater than zero. ");
                 }
-                // While withdrawal amount is invalid
-            } while (amountEntered <= 0);
-            return amountEntered;
-        }
 
+                // While deposit is invalid
+            } while (transactionAmount <= 0);
+
+            if ((userInput == "D") || (userInput == "d"))
+            {
+                accountList[index].Deposit(accountID, transactionAmount);
+            }
+            else if ((userInput == "W") || (userInput == "w"))
+            {
+                accountList[index].Withdrawal(accountID, transactionAmount);
+            }
+        }
 
     } // end class
 } // end namespace
