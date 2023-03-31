@@ -75,8 +75,6 @@ namespace BankClient
             bool userChoice;
             string userChoiceString;
             int accountID;
-            double depositAmmount;
-            double withdrawalAmmount;
 
             // III. Do 
             do
