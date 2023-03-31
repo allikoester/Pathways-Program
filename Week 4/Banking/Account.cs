@@ -43,5 +43,9 @@ namespace Banking
         {
         }
 
+        public virtual void UpdateAccountExtra(double accountExtra)
+        {
+        }
+
     } // end class
 } // end namespace

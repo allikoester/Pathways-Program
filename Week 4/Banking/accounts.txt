@@ -1,6 +1,6 @@
 1234
 Savings
-12555
+12610
 2.5
 2345
 Checking
@@ -10,3 +10,7 @@ Checking
 CD
 10000
 5
+4567
+Savings
+2500
+4.5

@@ -45,5 +45,10 @@ namespace Banking
             streamWriter.WriteLine(AnnualInterestRate);
         }
 
+        public override void UpdateAccountExtra(double accountExtra)
+        {
+            AnnualInterestRate = accountExtra;
+        }
+
     } // end class
 } // end namespace
