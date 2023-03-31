@@ -116,7 +116,7 @@ namespace BankClient
                 } // end List if
 
                 // D. Else if option choice is 'Deposit'
-                if (CheckInput(userChoiceString, new string[] { "D" }))
+                else if (CheckInput(userChoiceString, new string[] { "D" }))
                 {
                     MakeTransaction(userChoiceString, accountList);
 
@@ -124,7 +124,7 @@ namespace BankClient
                 } // end Deposit if
 
                 // E. Else if option choice is 'Withdrawal'
-                if (CheckInput(userChoiceString, new string[] { "W" }))
+                else if (CheckInput(userChoiceString, new string[] { "W" }))
                 {
                     MakeTransaction(userChoiceString, accountList);
 

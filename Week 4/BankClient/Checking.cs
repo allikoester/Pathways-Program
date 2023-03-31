@@ -13,7 +13,7 @@ namespace BankClient
 
         public override string ToString()
         {
-            return base.ToString() + ", the annual fee is: $" + AnnualFee;
+            return base.ToString() + ", the annual fee is: $" + Math.Round(AnnualFee, 2);
         }
 
         public override void Withdrawal(int accountID, double withdrawalAmount)
@@ -22,7 +22,7 @@ namespace BankClient
             {
                 double updatedAccountBalance = AccountBalance - withdrawalAmount;
                 AccountBalance = updatedAccountBalance;
-                Console.WriteLine("Withdrawal made. New account balance is: " + AccountBalance);
+                Console.WriteLine("Withdrawal made. New account balance is: " + Math.Round(AccountBalance, 2));
             }
             else
             {
