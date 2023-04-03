@@ -23,7 +23,7 @@ namespace BankClient
             AccountBalance = accountBalance;
         }
 
-        public virtual string ToString()
+        public override string ToString()
         {
             return "The accound ID is: " + AccountID + ", the account type is: " + AccountType + ", the balance is: $" + AccountBalance;
         }

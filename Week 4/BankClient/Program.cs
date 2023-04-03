@@ -118,7 +118,7 @@ namespace BankClient
                 // D. Else if option choice is 'Deposit'
                 else if (CheckInput(userChoiceString, new string[] { "D" }))
                 {
-                    MakeTransaction(userChoiceString, accountList);
+                    MakeTransaction(TransactionType.Deposit, accountList);
 
                     Console.WriteLine(" ");
                 } // end Deposit if
@@ -126,7 +126,7 @@ namespace BankClient
                 // E. Else if option choice is 'Withdrawal'
                 else if (CheckInput(userChoiceString, new string[] { "W" }))
                 {
-                    MakeTransaction(userChoiceString, accountList);
+                    MakeTransaction(TransactionType.Withdrawal, accountList);
 
                     Console.WriteLine(" ");
 
@@ -166,7 +166,7 @@ namespace BankClient
             return index;
         } // end FindIndex method
 
-        static void MakeTransaction(string userInput, List<Account> accountList)
+        static void MakeTransaction(TransactionType transactionType, List<Account> accountList)
         {
             int index;
             int accountID;
@@ -206,15 +206,17 @@ namespace BankClient
                 // While deposit is invalid
             } while (transactionAmount <= 0);
 
-            if ((userInput == "D") || (userInput == "d"))
+            if (transactionType == TransactionType.Deposit)
             {
                 accountList[index].Deposit(accountID, transactionAmount);
             }
-            else if ((userInput == "W") || (userInput == "w"))
+            else if (transactionType == TransactionType.Withdrawal)
             {
                 accountList[index].Withdrawal(accountID, transactionAmount);
             }
         }
+
+
 
     } // end class
 } // end namespace
