@@ -28,8 +28,13 @@ namespace Membership
             {
                 CashBack = AmountPurchased * (CashBackPercent / 100);
             }
-            Console.WriteLine("Cash back reward request for membership " + memberID + " in the amount of $" + CashBack + " has been made. ");
-            CashBack = 0;
+            Console.WriteLine("Press 'Y' to redeem $" + Math.Round(CashBack, 2) + " cash back. ");
+            string userInput = Console.ReadLine();
+            if ((userInput == "Y") || (userInput == "y"))
+            {
+                Console.WriteLine("Cash back reward request for membership " + memberID + " in the amount of $" + Math.Round(CashBack, 2) + " has been made. ");
+                CashBack = 0;
+            }
         }
 
         public double SpecialOffer()

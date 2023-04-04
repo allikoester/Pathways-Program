@@ -13,6 +13,8 @@ namespace Membership
 
         public double AmountPurchased { get; set; }
 
+        public double CashBackPercent { get; set; }
+
         public Membership()
         {
             MemberID = 0;
@@ -50,9 +52,16 @@ namespace Membership
 
         public void Return(int memberID, double returnAmount)
         {
-            double updatedAmountPurchased = AmountPurchased - returnAmount;
-            AmountPurchased = updatedAmountPurchased;
-            Console.WriteLine("Return has been made. Total amount purchased is: $" + Math.Round(AmountPurchased, 2));
+            if (returnAmount <= AmountPurchased)
+            {
+                double updatedAmountPurchased = AmountPurchased - returnAmount;
+                AmountPurchased = updatedAmountPurchased;
+                Console.WriteLine("Return has been made. Total amount purchased is: $" + Math.Round(AmountPurchased, 2));
+            }
+            else
+            {
+                Console.WriteLine("Return amount is greater than the amount purchased. ");
+            }
         }
 
         public abstract void ApplyCashBack(int memberID);
