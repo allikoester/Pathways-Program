@@ -111,8 +111,7 @@ namespace Membership
             bool userChoice;
             string? userChoiceString;
             int memberID;
-            string memberEmail;
-            string membershipType;
+            string? memberEmail;
             double annualCost;
             double amountPurchased;
             double cashBackPercent;
@@ -194,6 +193,7 @@ namespace Membership
                         // II. If option is 'Create' new membership
                         if (CheckInput(userChoiceString, new string[] { "C" }))
                         {
+                            bool IDinUse;
                             // A. Do
                             do
                             {
@@ -208,16 +208,18 @@ namespace Membership
                                 {
                                     Console.WriteLine("Please enter a valid member ID. ");
                                 }
+
                                 foreach (Membership member in membershipList)
                                 {
                                     if (member.MemberID == memberID)
                                     {
                                         Console.WriteLine("Member ID currently in use. Please enter new ID. ");
+                                        IDinUse = true;
                                     }
                                 }
                             }
                             // While member ID invalid 
-                            while ((memberID == null));
+                            while ((memberID == null) && (IDinUse = true));
 
                             // B. Prompt/get new contact email address
                             do
@@ -347,7 +349,7 @@ namespace Membership
                                 if ((userResponse == "y") || (userResponse == "Y"))
                                 {
                                     Console.WriteLine("Please enter updated member email address. ");
-                                    string memberEmailUpdated = Console.ReadLine();
+                                    string? memberEmailUpdated = Console.ReadLine();
                                     membershipList[index].MemberEmail = memberEmailUpdated;
                                 }
 
