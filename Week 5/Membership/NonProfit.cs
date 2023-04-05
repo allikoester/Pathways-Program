@@ -38,7 +38,7 @@ namespace Membership
                     if ((input == "Y") || (input == "y"))
                     {
                         Console.WriteLine("Cash back reward request for membership " + memberID + " in the amount of $" + Math.Round(CashBack, 2) + " has been made. ");
-                        CashBack = 0;
+                        AmountPurchased = 0;
                     }
                 }
                 else if ((userInput == "N") || (userInput == "n"))
@@ -49,7 +49,7 @@ namespace Membership
                     if ((input == "Y") || (input == "y"))
                     {
                         Console.WriteLine("Cash back reward request for membership " + memberID + " in the amount of $" + Math.Round(CashBack, 2) + " has been made. ");
-                        CashBack = 0;
+                        AmountPurchased = 0;
                     }
                 }
             }

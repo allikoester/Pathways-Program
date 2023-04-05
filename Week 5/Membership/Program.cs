@@ -107,7 +107,7 @@ namespace Membership
         {
 
             // I. Create list
-            List<Membership> membershipList = new List<Membership>();
+            //List<Membership> membershipList = new List<Membership>();
             bool userChoice;
             string? userChoiceString;
             int memberID;
@@ -117,20 +117,14 @@ namespace Membership
             double cashBackPercent;
 
             // II. Add members to list 
-            Regular member1 = new Regular(3, 1234, "member1@gmail.com", "Regular", 60, 200);
-            membershipList.Add(member1);
-
-            Executive member2 = new Executive(5, 2345, "member2@gmail.com", "Executive", 120, 500);
-            membershipList.Add(member2);
-
-            Executive member3 = new Executive(5, 2346, "member3@gmail.com", "Executive", 120, 1500);
-            membershipList.Add(member3);
-
-            NonProfit member4 = new NonProfit(4, 3456, "member4@gmail.com", "NonProfit", 100, 800);
-            membershipList.Add(member4);
-
-            Corporate member5 = new Corporate(3.5, 4567, "member5@gmail.com", "Corporate", 125, 750);
-            membershipList.Add(member5);
+            List<Membership> membershipList = new List<Membership>
+            {
+                new Regular(3, 1234, "member1@gmail.com", "Regular", 60, 200),
+                new Executive(5, 2345, "member2@gmail.com", "Executive", 120, 500),
+                new Executive(5, 2346, "member3@gmail.com", "Executive", 120, 1500),
+                new NonProfit(4, 3456, "member4@gmail.com", "NonProfit", 100, 800),
+                new Corporate(3.5, 4567, "member5@gmail.com", "Corporate", 125, 750)
+            };
 
             // III. Do 
             do
@@ -266,7 +260,7 @@ namespace Membership
                                 Console.WriteLine(" ");
                             } // end if Regular
 
-                            if (CheckInput(userChoiceString, new string[] { "e" }))
+                            else if (CheckInput(userChoiceString, new string[] { "e" }))
                             {
                                 annualCost = GetAnnualCost();
                                 amountPurchased = GetAmountPurchased();
@@ -278,7 +272,7 @@ namespace Membership
                                 Console.WriteLine(" ");
                             } // end if Executive
 
-                            if (CheckInput(userChoiceString, new string[] { "n" }))
+                            else if (CheckInput(userChoiceString, new string[] { "n" }))
                             {
                                 annualCost = GetAnnualCost();
                                 amountPurchased = GetAmountPurchased();
@@ -290,7 +284,7 @@ namespace Membership
                                 Console.WriteLine(" ");
                             } // end if Nonprofit
 
-                            if (CheckInput(userChoiceString, new string[] { "c" }))
+                            else if (CheckInput(userChoiceString, new string[] { "c" }))
                             {
                                 annualCost = GetAnnualCost();
                                 amountPurchased = GetAmountPurchased();
