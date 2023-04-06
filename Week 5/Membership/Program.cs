@@ -115,6 +115,10 @@ namespace Membership
             double annualCost;
             double amountPurchased;
             double cashBackPercent;
+            string regular = ((MembershipType)0).ToString();
+            string executive = ((MembershipType)1).ToString();
+            string nonprofit = ((MembershipType)2).ToString();
+            string corporate = ((MembershipType)3).ToString();
 
             // II. Add members to list 
             List<Membership> membershipList = new List<Membership>
@@ -226,6 +230,10 @@ namespace Membership
 
                             // C. Prompt/get new membership type
 
+                            annualCost = GetAnnualCost();
+                            amountPurchased = GetAmountPurchased();
+                            cashBackPercent = GetCashBackPercent();
+
                             do
                             {
                                 Console.WriteLine("Please select membership type. ");
@@ -242,57 +250,36 @@ namespace Membership
                                 }
                             } while (!userChoice);
 
-                            // D. Prompt/get new annual cost
-                            // E. Prompt/get new amount purchased
-                            // F. Add to list 
-
                             if (CheckInput(userChoiceString, new string[] { "r" }))
                             {
-                                annualCost = GetAnnualCost();
-                                amountPurchased = GetAmountPurchased();
-                                cashBackPercent = GetCashBackPercent();
-
-                                Regular newMember = new Regular(cashBackPercent, memberID, memberEmail, "Regular", annualCost, amountPurchased);
+                                Regular newMember = new Regular(cashBackPercent, memberID, memberEmail, regular, annualCost, amountPurchased);
                                 membershipList.Add(newMember);
                                 Console.WriteLine(newMember.ToString());
-                                Console.WriteLine(" ");
                             } // end if Regular
 
                             else if (CheckInput(userChoiceString, new string[] { "e" }))
                             {
-                                annualCost = GetAnnualCost();
-                                amountPurchased = GetAmountPurchased();
-                                cashBackPercent = GetCashBackPercent();
-
-                                Executive newMember = new Executive(cashBackPercent, memberID, memberEmail, "Executive", annualCost, amountPurchased);
+                                Executive newMember = new Executive(cashBackPercent, memberID, memberEmail, executive, annualCost, amountPurchased);
                                 membershipList.Add(newMember);
                                 Console.WriteLine(newMember.ToString());
-                                Console.WriteLine(" ");
                             } // end if Executive
 
                             else if (CheckInput(userChoiceString, new string[] { "n" }))
                             {
-                                annualCost = GetAnnualCost();
-                                amountPurchased = GetAmountPurchased();
-                                cashBackPercent = GetCashBackPercent();
-
-                                NonProfit newMember = new NonProfit(cashBackPercent, memberID, memberEmail, "NonProfit", annualCost, amountPurchased);
+                                NonProfit newMember = new NonProfit(cashBackPercent, memberID, memberEmail, nonprofit, annualCost, amountPurchased);
                                 membershipList.Add(newMember);
                                 Console.WriteLine(newMember.ToString());
-                                Console.WriteLine(" ");
                             } // end if Nonprofit
 
                             else if (CheckInput(userChoiceString, new string[] { "c" }))
                             {
-                                annualCost = GetAnnualCost();
-                                amountPurchased = GetAmountPurchased();
-                                cashBackPercent = GetCashBackPercent();
-
-                                Corporate newMember = new Corporate(cashBackPercent, memberID, memberEmail, "Corporate", annualCost, amountPurchased);
+                                Corporate newMember = new Corporate(cashBackPercent, memberID, memberEmail, corporate, annualCost, amountPurchased);
                                 membershipList.Add(newMember);
-                                Console.WriteLine(newMember.ToString());
                                 Console.WriteLine(" ");
                             } // end if Corporate
+
+                            Console.WriteLine(" ");
+
                         } // end if Create
 
                         // III. If option is 'List' 
@@ -458,7 +445,7 @@ namespace Membership
                         // III. If option is 'Purchase' 
                         else if (CheckInput(userChoiceString, new string[] { "P" }))
                         {
-                            MakeTransaction(userChoiceString, membershipList);
+                            MakeTransaction(TransactionType.Purchase, membershipList);
 
                             Console.WriteLine(" ");
 
@@ -467,7 +454,7 @@ namespace Membership
                         // IV. If option is 'Return' 
                         else if (CheckInput(userChoiceString, new string[] { "R" }))
                         {
-                            MakeTransaction(userChoiceString, membershipList);
+                            MakeTransaction(TransactionType.Return, membershipList);
 
                             Console.WriteLine(" ");
 
@@ -581,7 +568,7 @@ namespace Membership
             return cashBackPercent;
         }
 
-        static void MakeTransaction(string userInput, List<Membership> membershipList)
+        static void MakeTransaction(TransactionType transactionType, List<Membership> membershipList)
         {
             int index;
             int memberID;
@@ -619,11 +606,11 @@ namespace Membership
 
             } while (transactionAmount <= 0);
 
-            if ((userInput == "P") || (userInput == "p"))
+            if (transactionType == TransactionType.Purchase)
             {
                 membershipList[index].Purchase(memberID, transactionAmount);
             }
-            else if ((userInput == "R") || (userInput == "r"))
+            else if (transactionType == TransactionType.Return)
             {
                 membershipList[index].Return(memberID, transactionAmount);
             }
