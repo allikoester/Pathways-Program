@@ -187,7 +187,7 @@ namespace Membership
                         // II. If option is 'Create' new membership
                         if (CheckInput(userChoiceString, new string[] { "C" }))
                         {
-                            bool IDinUse;
+                            int index;
                             // A. Do
                             do
                             {
@@ -203,17 +203,15 @@ namespace Membership
                                     Console.WriteLine("Please enter a valid member ID. ");
                                 }
 
-                                foreach (Membership member in membershipList)
+                                index = FindIndex(memberID, membershipList);
+                                if (index != -1)
                                 {
-                                    if (member.MemberID == memberID)
-                                    {
-                                        Console.WriteLine("Member ID currently in use. Please enter new ID. ");
-                                        IDinUse = true;
-                                    }
+                                    Console.WriteLine("Member ID currently in use. Please enter new ID. ");
                                 }
-                            }
+
+
+                            } while (index != -1 || memberID == null);
                             // While member ID invalid 
-                            while ((memberID == null) && (IDinUse = true));
 
                             // B. Prompt/get new contact email address
                             do
