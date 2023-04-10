@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cleaning Survey</title>
+
+    <link rel="stylesheet" href="survey.css">
+
+    <script>function myFunction() {
+            newname = document.getElementById("name").value
+            alert("Survey received! Thank you " + newname + " for your input!");
+        }</script>
+</head>
+
+<body>
+    <header class="header">
+        <h1 id="title">Deep Cleaning Survery</h1>
+        <p id="description" class="description">Thank you for your input. </p>
+    </header>
+    <form id="survey-form" onsubmit="myFunction()">
+        <div class="form-group">
+            <label id="name-label" for="name">Name</label>
+            <br>
+            <input type="text" id="name" name="name" class="input" placeholder="Enter your name" required />
+            <br>
+        </div>
+
+        <div class="form-group">
+            <label id="email-label" for="email">Email</label>
+            <br>
+            <input type="email" id="email" name="email" class="input" placeholder="Enter your Email address" required />
+            <br>
+        </div>
+
+        <div class="form-group">
+            <p>Please select your deep cleaning frequency. </p>
+            <select name="frequency" id="dropdown" class="input" required>
+                <option disabled selected value>Select deep cleaning frequency</option>
+                <option value="spring">Every spring</option>
+                <option value="fall">Every fall</option>
+                <option value="twice">Twice a year</option>
+                <option value="multiple">More than twice a year</option>
+                <option value="never">Never</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <p>Are you happy with your current deep cleaning schedule?</p>
+            <input type="radio" id="yes" name="happy" value="Yes" class="radio">
+            <label for="yes">Absolutely happy</label>
+            <br>
+            <input type="radio" id="mostly" name="happy" value="mostly" class="radio">
+            <label for="mostly">Mostly happy</label>
+            <br>
+            <input type="radio" id="notreally" name="happy" value="notreally" class="radio">
+            <label for="mostly">Not really happy</label>
+            <br>
+            <input type="radio" id="not" name="happy" value="not" class="radio">
+            <label for="mostly">Definitely not happy</label>
+            <br>
+        </div>
+
+        <div class="form-group">
+            <p>
+                Which of the following do you include in your deep cleaning routine?
+                <span class="clue">(Please check all that apply)</span>
+            </p>
+            <input type="checkbox" id="windows" value="Windows" class="checkbox">
+            <label for="windows">Windows</label>
+            <br>
+            <input type="checkbox" id="floors" value="Floors" class="checkbox">
+            <label for="windows">Floors</label>
+            <br>
+            <input type="checkbox" id="lights" value="Lights" class="checkbox">
+            <label for="windows">Light fixtures and ceiling fans</label>
+            <br>
+            <input type="checkbox" id="baseboards" value="Baseboards" class="checkbox">
+            <label for="windows">Baseboards</label>
+            <br>
+            <input type="checkbox" id="none" value="None" class="checkbox">
+            <label for="windows">None of the above</label>
+            <br>
+        </div>
+
+        <div class="form-group">
+            <p>
+                Any other comments regarding your deep cleaning routine?
+            </p>
+            <textarea name="comments" id="comments" class="textarea" placeholder="Enter your comments here"
+                required></textarea>
+        </div>
+
+        <div class="form-group">
+            <button type="submit" id="submit" class="submit-button">
+                Submit
+            </button>
+        </div>
+
+    </form>
+
+</body>
+
+</html>
