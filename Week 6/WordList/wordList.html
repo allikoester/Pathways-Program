@@ -1,0 +1,81 @@
+<!-- 
+    Developer Name: Alli Koester
+    Last Update: 4/11/23
+
+    Allow user to enter a word and add to list one or two. 
+
+    Requirements:
+    (1) Word entered will be a string
+    (2) List numbered entered will be an integer, either one or two. All other numbers will be invalid. 
+
+    Algorithm:
+    I. User enters word 
+    II. User enters number
+        i. If word not entered, or number is <1 or >2, provide error alert
+        ii. Else entries are valid
+            A. If list 1 selected 
+                a. Add to list
+            B. Else list 2 selected
+                a. Add to list
+            C. Erase form fields
+    III. Provide button to clear list
+
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word list</title>
+
+    <link rel="stylesheet" href="wordList.css">
+    <script src="wordList.js"></script>
+
+</head>
+
+<body>
+    <header>
+        <h1>Word List Builder</h1>
+    </header>
+    <main>
+        <h2>Please input a word and indicate which list to add to.</h2>
+        <div class="main-body">
+            <div class="main-item">
+                <form name="myForm">
+                    <label for="word" id="word-label">Enter word to add to list</label>
+                    <br>
+                    <input type="text" id="word" name="word" class="word-input" placeholder="Enter word here" value="">
+                    <br>
+                    <br>
+                    <label for="number" id="list-label">Enter list number to add to</label>
+                    <br>
+                    <input type="number" id="number" name="number" value="" placeholder="Enter list number here">
+                    <br>
+                    <br>
+                    <input type="button" value="Add to list" onclick="validateAndAdd()">
+                </form>
+            </div>
+            <div class="main-item">
+                <h3>List 1</h3>
+                <table id="list1">
+                </table>
+                <br>
+                <br>
+                <input type="button" value="Clear List 1" onclick="clearList1()">
+            </div>
+            <div class="main-item">
+                <h3>List 2</h3>
+                <table id="list2">
+                </table>
+                <br>
+                <br>
+                <input type="button" value="Clear List 2" onclick="clearList2()">
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
