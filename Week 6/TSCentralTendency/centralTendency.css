@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.main-body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-item {
+    flex: 33%;
+}
+
+footer {
+    text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+    .main-item {
+        flex: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    main {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    footer {
+        flex-direction: column;
+        text-align: center;
+    }
+}

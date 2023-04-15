@@ -1,0 +1,73 @@
+<!-- 
+    Developer Name: Alli Koester
+    Last Update: 4/13/23
+
+    User will input minimum and maximum values to create a range, then add numbers to the list. 
+    Numbers will be validated to ensure they are within the given range. 
+    Program will then calculate and display the mean, median, and mode of numbers in the list. 
+    User is able to clear all values. 
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Central Tendency List</title>
+
+    <link rel="stylesheet" href="centralTendency.css">
+    <script src="centralTendency.js"></script>
+
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="title">Central Tendency List</h1>
+    </header>
+    <main class="main-body">
+        <div class="main-item">
+            <form name="submitNumbers">
+                <h2>Enter Numbers:</h2>
+                <label for="minimum" id="minimumLabel">Please enter a minimum value</label>
+                <br>
+                <input type="number" id="minimum" name="minimum" class="minimum-label" placeholder="Minimum Number"
+                    value="">
+                <br>
+                <label for="maximum" id="maximumLabel">Please enter a maximum value</label>
+                <br>
+                <input type="number" id="maximum" name="maximum" class="maximum-label" placeholder="Maximum Number"
+                    value="">
+                <br>
+                <br>
+                <label for="number" id="numberLabel">Please enter a new number between the given range</label>
+                <br>
+                <input type="number" id="number" name="number" class="number-label" placeholder="Enter a Number"
+                    value="">
+                <br>
+                <br>
+                <input type="button" id="addButton" value="Add to list" onclick="validateAndAdd()">
+                <br><br>
+                <input type="button" value="Clear All From List" onclick="clearAll()">
+            </form>
+        </div>
+        <div class="main-item">
+            <h2>List of numbers</h2>
+            <table id="numberList">
+            </table>
+        </div>
+        <div class="main-item">
+            <h2>Central Tendencies</h2>
+            <p>Mean: <label id="theMean">--</label></p>
+            <p>Median: <label id="theMedian">--</label></p>
+            <p>Mode(s): <label id="theMode">--</label></p>
+        </div>
+    </main>
+    <footer class="footer">
+        <h3>Central Tendency &reg;</h3>
+    </footer>
+
+</body>
+
+</html>

@@ -19,7 +19,15 @@ function validateAndAdd() {
     else {
         if (newNumber == 1) {
 
-            list1Palindrome(newWord);
+            let answer = list1Palindrome(newWord);
+            if (answer == true) {
+                var tableRef = document.getElementById("list1");
+                (tableRef.insertRow(tableRef.rows.length)).innerHTML = newWord + " is a palindrome.";
+            }
+            else {
+                var tableRef = document.getElementById("list1");
+                (tableRef.insertRow(tableRef.rows.length)).innerHTML = newWord + " is NOT a palindrome.";
+            }
         }
         else {
             list2Palindrome(newWord);
@@ -37,12 +45,10 @@ function list1Palindrome(string) {
         let x = string[i];
         let y = string[j - i];
         if (x == y) {
-            var tableRef = document.getElementById("list1");
-            (tableRef.insertRow(tableRef.rows.length)).innerHTML = string + " is a palindrome.";
+            return true;
         }
         else {
-            var tableRef = document.getElementById("list1");
-            (tableRef.insertRow(tableRef.rows.length)).innerHTML = string + " is NOI a palindrome.";
+            return false;
         }
     }
 }
