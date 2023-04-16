@@ -46,7 +46,7 @@ function addListAfterClick() {
     }
 }
 
-function addListAfterKeypress(event) {
+function addListAfterKeypress(event: { which: number; }) {
     if (inputLength() > 0 && event.which === 13) {  //this now looks to see if you hit "enter"/"return"
         createListElement();		               //the 13 is the enter key's keycode
     }

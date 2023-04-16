@@ -7,8 +7,6 @@ function validateAndAdd(): boolean {
     let newNumberString: string = (document.getElementById('number') as HTMLInputElement).value;
     let newNumber: number;
 
-
-
     // Validate minimum
     if (newMinimumString == "") {
         alert("Please enter a minimum value. ");
