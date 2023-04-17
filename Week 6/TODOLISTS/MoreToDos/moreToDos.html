@@ -1,49 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>To Do List</title>
 
-    <link rel="stylesheet" href="moreToDos.css">
+    <link rel="stylesheet" href="moreToDos.css" />
+  </head>
 
-</head>
-
-<body>
+  <body>
     <header class="header">
-        <h1 class="title">Make Your To Do List</h1>
+      <h1 class="title">Make Your To Do List</h1>
     </header>
     <main class="main">
-        <form name="submitToDo">
-            <label for="newToDo" id="addButtonLabel">Enter a new to do:</label>
-            <br>
-            <input type="text" id="newToDo" placeholder="New To Do" name="newToDo">
-            <br><br><br>
-            <!-- <input type="button" value="Add to List" class="addButton"> -->
-            <button class="addButton">Add to List</button>
-        </form>
-        <div class="listSection">
-            <h2>To Do List</h2>
-            <ul id="list" class="list">
-            </ul>
-        </div>
-        <footer>
-            <input type="button" value="Clear entire List" class="clearButton" id="clearButton">
-        </footer>
+      <form name="submitToDo">
+        <label for="newToDo" id="addButtonLabel">Enter a new to do:</label>
+        <br />
+        <input
+          type="text"
+          id="newToDo"
+          placeholder="New To Do"
+          name="newToDo"
+        />
+        <br /><br /><br />
+        <button class="addButton">Add to List</button>
+      </form>
+      <div class="listSection">
+        <h2>To Do List</h2>
+        <ul id="list" class="list"></ul>
+      </div>
+      <footer>
+        <input
+          type="button"
+          value="Clear entire List"
+          class="clearButton"
+          id="clearButton"
+        />
+      </footer>
     </main>
 
     <script src="moretodos.js"></script>
-</body>
-
+  </body>
 </html>
-
-
-<!-- <form action="/nowhere">
-    <label for="item">Enter A Product</label>
-    <input type="text" id="product" name="product">
-    <label for="item">Enter A Quantity</label>
-    <input type="number" id="qty" name="qty">
-    <button>Submit</button>
-</form> -->
