@@ -1,0 +1,117 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid mediumpurple;
+    border-width: thick;
+    border-radius: 50px;
+    padding: 30px;
+}
+
+.header {
+    text-align: center;
+    font-weight: bold;
+    color: #380941;
+    text-decoration: underline;
+    background-color: lavender;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+main {
+    padding-top: 35px;
+
+}
+
+h2 {
+    text-align: center;
+    color: #380941;
+}
+
+footer {
+    text-align: center;
+    padding-top: 100px;
+}
+
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background: #d0b3e0;
+    transition: 0.3s;
+    user-select: none;
+    color: #39213e;
+}
+
+ul li:nth-child(odd) {
+    background: #9781a4;
+}
+
+ul li:hover {
+    background: #c6b5d7;
+}
+
+ul li.checked {
+    background: #694c75;
+    color: #39213e;
+    text-decoration: line-through;
+}
+
+ul li.checked::before {
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    border-color: #f9f9f9;
+    border-width: 0 2px 2px 0;
+    border-style: solid;
+    transform: rotate(45deg);
+    height: 15px;
+    width: 7px;
+    content: "";
+}
+
+.close {
+    display: none;
+}
+
+li>button {
+    float: right;
+    border: none;
+    background: none;
+    color: #39213e;
+    font-weight: 800;
+    padding-right: 40px;
+}
+
+
+#newToDo {
+    float: left;
+    padding: 5px;
+    margin: 0;
+    border-radius: 10px;
+    font-size: 16px;
+    border: solid rgb(98, 33, 129);
+}
+
+#addButtonLabel {
+    color: #7e3dba;
+    font-weight: bold;
+}
+
+.addButton,
+.clearButton {
+    padding: 5px;
+    width: 25%;
+    background: #e6d7fa;
+    text-align: center;
+    font-weight: bold;
+    color: #351851;
+    border-radius: 10px;
+    border: solid rgb(98, 33, 129);
+}
+
+.addButton:hover,
+.clearButton:hover {
+    background: #9253b2;
+    border-radius: 10px;
+    border: solid rgb(98, 33, 129);
+}

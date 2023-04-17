@@ -12,10 +12,9 @@ function listLength(): number {
 }
 
 function addItemToList() {
-    const li: HTMLLIElement = <HTMLLIElement>document.createElement("li");
-
-    li.appendChild(document.createTextNode(input.value));
-
+    // let li: HTMLLIElement = <HTMLLIElement>document.createElement("li");
+    let li: HTMLElement = document.createElement('li') as HTMLLIElement;
+    li.appendChild(document.createTextNode(input.value)!);
     list.appendChild(li);
     input.value = "";
 
@@ -35,7 +34,7 @@ function addItemToList() {
 
 }
 
-function addToListAfterClick() : void{
+function addToListAfterClick(): void {
     if (inputLength() > 0) {
         addItemToList();
     }

@@ -9,7 +9,8 @@ function listLength() {
     return item.length;
 }
 function addItemToList() {
-    var li = document.createElement("li");
+    // let li: HTMLLIElement = <HTMLLIElement>document.createElement("li");
+    var li = document.createElement('li');
     li.appendChild(document.createTextNode(input.value));
     list.appendChild(li);
     input.value = "";
