@@ -1,0 +1,48 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: burlywood;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+header {
+  text-align: center;
+  color: #562b0c;
+}
+
+main {
+  text-align: center;
+  color: #562b0c;
+}
+
+#pickALength {
+  background-color: rgb(211, 159, 91);
+  color: #562b0c;
+  padding: 5px;
+  width: 50%;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 5px;
+  border-color: #562b0c;
+}
+
+button {
+  background-color: rgb(211, 159, 91);
+  color: #562b0c;
+  padding: 5px;
+  width: 25%;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.displayQuote {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  padding: 100px;
+}
