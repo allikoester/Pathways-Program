@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather Forcast</title>
+
+    <link rel="stylesheet" href="weather.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Weather Forcast</h1>
+    </header>
+    <main>
+      <div class="locationSelction">
+        <label for="location" id="locationLabel">Select your location</label>
+        <select id="selectLocation">
+          <option value="OAX/54,41">Lincoln</option>
+          <option value="OAX/77,57">Omaha</option>
+          <option value="EAX/43,52">Kansas City</option>
+          <option value="BOU/71,60">Denver</option>
+        </select>
+        <button type="button" onclick="getWeatherForcast()">submit</button>
+      </div>
+      <div class="forcastSelection">
+        <button type="button" id="3day">3 Day Forcast</button>
+        <button type="button" id="5day">5 Day Forcast</button>
+        <button type="button" id="7day">7 Day Forcast</button>
+        <button type="button" id="14day">14 Day Forcast</button>
+      </div>
+      <div class="forcastTable">
+        <table id="table"></table>
+        <p id="days"></p>
+        <p id="weather"></p>
+        <p id="temp"></p>
+      </div>
+    </main>
+    <script src="weather.js"></script>
+  </body>
+</html>

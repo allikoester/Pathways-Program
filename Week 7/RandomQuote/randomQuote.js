@@ -1,12 +1,8 @@
-const form = document.querySelector("form");
-let quoteSelector = document.getElementById("pickALength");
-// let quoteLength = quoteSelector.value;
-
 async function getAQuote() {
   let apiString = "https://api.quotable.io/random?";
   let minLength;
   let maxLength;
-  let quoteLength = quoteSelector.options[quoteSelector.selectedIndex].value;
+  let quoteLength = document.getElementById("pickALength").value;
 
   console.log(quoteLength);
   if (quoteLength == "short") {
@@ -31,11 +27,9 @@ async function getAQuote() {
   console.log(jsonData);
 
   let quote = JSON.stringify(jsonData.content);
-  quote = quote.substring(1, quote.length - 1);
   document.getElementById("quote").innerHTML = quote;
 
   let author = JSON.stringify(jsonData.author);
-  //author = author.substring(1, author.length - 1);
   document.getElementById("author").innerHTML = author;
 
   return true;
