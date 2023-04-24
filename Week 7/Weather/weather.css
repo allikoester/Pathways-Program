@@ -1,0 +1,73 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(128, 183, 235);
+  color: rgb(18, 58, 190);
+}
+
+.header {
+  text-align: center;
+  font-size: 1.5rem;
+  background-color: rgb(148, 194, 238);
+  padding: 25px;
+  border-radius: 25px;
+}
+
+.locationSelection {
+  padding: 20px;
+}
+#locationLabel {
+  font-size: 1.25rem;
+  font-weight: bold;
+  padding-right: 10px;
+}
+#selectLocation {
+  background-color: rgb(128, 183, 235);
+  color: rgb(18, 58, 190);
+  font-weight: bold;
+  text-align: center;
+  border-radius: 10px;
+  width: 25%;
+  padding: 5px;
+}
+
+.forecastSelection {
+  padding: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+button {
+  background-color: rgb(128, 183, 235);
+  color: rgb(18, 58, 190);
+  font-weight: bold;
+  text-align: center;
+  width: 25%;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.forecastLabels {
+  display: flex;
+  flex-wrap: wrap;
+}
+.dayLabel,
+.forecastLabel,
+.temperatureLabel {
+  flex: 33%;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.forecastOutput {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(148, 194, 238);
+  border-radius: 25px;
+}
+
+#days,
+#weather,
+#temp {
+  flex: 33%;
+}
