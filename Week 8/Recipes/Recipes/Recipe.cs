@@ -1,11 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Recipe
 {
-    class Recipe
+    internal class Recipe
     {
-        
-        public string RecipeName { get; set; }  
+        public string RecipeName { get; set; }
 
-        public string RecipeDescription { get; set;}
+        public string RecipeDescription { get; set; }
 
         public Recipe()
         {
@@ -13,7 +18,7 @@ namespace Recipe
             RecipeDescription = string.Empty;
         }
 
-        public Recipe (string name, string description)
+        public Recipe(string name, string description)
         {
             RecipeName = name;
             RecipeDescription = description;

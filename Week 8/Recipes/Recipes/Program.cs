@@ -2,10 +2,8 @@
  
 Developer Name: ALli Koester
 Last Update: 4/25/23
-
 Program: Create a list of recipes of different types. 
     Provide menu for user to view recipes, add to recipes
-
 Algorithm: 
 I. Create List
 II. Add accounts to list 
@@ -28,9 +26,9 @@ III. Do
         iii. Prompt/get new recipe cooking instructions
         iv. Add to list 
     while option is not quit
-
 */
 
+using Recipe;
 using System.Collections.Generic;
 
 namespace Recipe
@@ -51,7 +49,7 @@ namespace Recipe
             List<Recipe> recipeList = new List<Recipe>
             {
                 new Bake("oven","25 minutes", "Herbed Chicken", "Chicken marinated with oil and herbs"),
-                new StoveTop("stove top", "30 minutes", "Beef Tacos", "Ground beef cooked with onions, peppers, and spices"), 
+                new StoveTop("stove top", "30 minutes", "Beef Tacos", "Ground beef cooked with onions, peppers, and spices"),
                 new CrockPot("crock pot", "6-8 hours", "Pork Chops", "Pork chops with creamy rice and veggies")
             };
 
@@ -122,8 +120,8 @@ namespace Recipe
                     do
                     {
                         Console.WriteLine("Please enter a brief description. ");
-                        recipeDescription = Console.ReadLine(); 
-                        if(string.IsNullOrEmpty(recipeDescription))
+                        recipeDescription = Console.ReadLine();
+                        if (string.IsNullOrEmpty(recipeDescription))
                         {
                             Console.WriteLine("Please enter a valid description. ");
                         }

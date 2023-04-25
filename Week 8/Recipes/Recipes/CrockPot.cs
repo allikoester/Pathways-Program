@@ -1,6 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Recipe
 {
-    class CrockPot : Recipe
+    internal class CrockPot : Recipe
     {
         public string CookingType { get; set; }
 
