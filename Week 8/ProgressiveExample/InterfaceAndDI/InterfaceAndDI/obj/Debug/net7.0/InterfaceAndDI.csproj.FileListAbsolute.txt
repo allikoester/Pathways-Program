@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\bin\Debug\net7.0\InterfaceAndDI.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\bin\Debug\net7.0\InterfaceAndDI.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\bin\Debug\net7.0\InterfaceAndDI.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\bin\Debug\net7.0\InterfaceAndDI.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\bin\Debug\net7.0\InterfaceAndDI.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\InterfaceAndDI.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\InterfaceAndDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\InterfaceAndDI.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\InterfaceAndDI.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\InterfaceAndDI.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\InterfaceAndDI.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\refint\InterfaceAndDI.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\InterfaceAndDI.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\InterfaceAndDI.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceAndDI\InterfaceAndDI\obj\Debug\net7.0\ref\InterfaceAndDI.dll

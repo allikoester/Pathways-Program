@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Recipe List</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <h1>Recipe List</h1>
+    <h3>Add</h3>
+    <form action="javascript:void(0);" method="POST" onsubmit="addRecipe()">
+        <input type="text" id="add-name" placeholder="New Recipe Name">
+        <input type="text" id="add-description" placeholder="New Recipe Description"><br />
+        <label for="add-people">How many people need to be served?</label>
+        <input type="number" id="add-people" name="people" min="1"/>
+        <input type="submit" value="Add">
+    </form>
+
+    <div id="editForm">
+        <h3>Edit</h3>
+        <form action="javascript:void(0);" onsubmit="updateRecipe()">
+            <input type="hidden" id="edit-id">
+            <input type="checkbox" id="edit-isComplete">
+            <input type="text" id="edit-name">
+            <input type="text" id="edit-description">
+            <input type="number" id="edit-people" min="1"/>
+            <input type="submit" value="Save">
+            <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>Like it?</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th># of People</th>
+            <th>Total Cost of Meal</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tbody id="recipeList"></tbody>
+    </table>
+
+    <script src="js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        getRecipes();
+    </script>
+</body>
+</html>

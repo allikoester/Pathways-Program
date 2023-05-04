@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RecipeApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RecipeApi.props",
+      "PackagePath": "build\\RecipeApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RecipeApi.props",
+      "PackagePath": "buildMultiTargeting\\RecipeApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RecipeApi.props",
+      "PackagePath": "buildTransitive\\RecipeApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

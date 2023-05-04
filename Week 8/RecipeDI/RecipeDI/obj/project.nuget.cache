@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNu9Mei5IDs1L/xpUaJW4ugiUo0FnfAreqLfcODcN8kkgR1tcxaw9wwOEtWNIZCM5Q5gbI8G+e4bxpqv1v4Ouw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 8\\RecipeDI\\RecipeDI\\RecipeDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AKoester\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\AKoester\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\AKoester\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
+    "C:\\Users\\AKoester\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\AKoester\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\AKoester\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\AKoester\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

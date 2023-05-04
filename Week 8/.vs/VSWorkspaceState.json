@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Calculator",
+    "\\Calculator\\Calculator",
+    "\\Event",
+    "\\Event\\Event",
+    "\\ProgressiveExample",
+    "\\ProgressiveExample\\InterfaceAndDI",
+    "\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI"
   ],
+  "SelectedNode": "\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI\\FileLogger.cs",
   "PreviewInSolutionExplorer": false
 }

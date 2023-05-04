@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\bin\Debug\net7.0\RecipeMVC.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\bin\Debug\net7.0\RecipeMVC.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\bin\Debug\net7.0\RecipeMVC.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\bin\Debug\net7.0\RecipeMVC.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\bin\Debug\net7.0\RecipeMVC.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\RecipeMVC.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\RecipeMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\RecipeMVC.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\RecipeMVC.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\RecipeMVC.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\RecipeMVC.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\refint\RecipeMVC.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\RecipeMVC.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\RecipeMVC.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\RecipeMVC\RecipeMVC\obj\Debug\net7.0\ref\RecipeMVC.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "uvYJ+y6Ig6vlzoqhg69tFtSaOYdmvDKBqv2my3QdKhM=",
+  "Source": "RecipeApi",
+  "BasePath": "_content/RecipeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RecipeApi\\wwwroot",
+      "Source": "RecipeApi",
+      "ContentRoot": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\",
+      "BasePath": "_content/RecipeApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\css\\site.css",
+      "SourceId": "RecipeApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\",
+      "BasePath": "_content/RecipeApi",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\index.html",
+      "SourceId": "RecipeApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\",
+      "BasePath": "_content/RecipeApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\js\\site.js",
+      "SourceId": "RecipeApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AKoester\\Desktop\\Pathways Program\\Week 9\\RecipeApi\\RecipeApi\\wwwroot\\",
+      "BasePath": "_content/RecipeApi",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

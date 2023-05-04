@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeMVC", "RecipeMVC\RecipeMVC.csproj", "{4FD77942-ABAF-47F7-8902-80D65BC20F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTest", "WebTest\WebTest.csproj", "{89B60624-14BE-4C0D-8519-506F5DB01CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD77942-ABAF-47F7-8902-80D65BC20F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD77942-ABAF-47F7-8902-80D65BC20F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD77942-ABAF-47F7-8902-80D65BC20F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD77942-ABAF-47F7-8902-80D65BC20F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B60624-14BE-4C0D-8519-506F5DB01CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B60624-14BE-4C0D-8519-506F5DB01CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B60624-14BE-4C0D-8519-506F5DB01CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B60624-14BE-4C0D-8519-506F5DB01CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F69D838-3750-4FFA-A615-8ED68BE79C9C}
+	EndGlobalSection
+EndGlobal

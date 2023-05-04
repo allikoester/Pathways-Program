@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\bin\Debug\net7.0\MVCEx.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\bin\Debug\net7.0\MVCEx.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\bin\Debug\net7.0\MVCEx.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\bin\Debug\net7.0\MVCEx.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\bin\Debug\net7.0\MVCEx.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\MVCEx.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\MVCEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\MVCEx.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\MVCEx.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\MVCEx.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\MVCEx.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\refint\MVCEx.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\MVCEx.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\MVCEx.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\MVCEx\MVCEx\obj\Debug\net7.0\ref\MVCEx.dll

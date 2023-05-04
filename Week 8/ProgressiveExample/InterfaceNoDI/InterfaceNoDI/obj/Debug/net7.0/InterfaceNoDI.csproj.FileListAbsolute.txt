@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\bin\Debug\net7.0\InterfaceNoDI.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\bin\Debug\net7.0\InterfaceNoDI.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\bin\Debug\net7.0\InterfaceNoDI.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\bin\Debug\net7.0\InterfaceNoDI.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\bin\Debug\net7.0\InterfaceNoDI.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\InterfaceNoDI.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\InterfaceNoDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\InterfaceNoDI.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\InterfaceNoDI.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\InterfaceNoDI.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\InterfaceNoDI.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\refint\InterfaceNoDI.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\InterfaceNoDI.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\InterfaceNoDI.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\ProgressiveExample\InterfaceNoDI\InterfaceNoDI\obj\Debug\net7.0\ref\InterfaceNoDI.dll

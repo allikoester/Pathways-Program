@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricingEngine", "PricingEngine\PricingEngine.csproj", "{7A6767FF-04B7-4546-889F-FE9673945EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricingEngineTests", "PricingEngineTests\PricingEngineTests.csproj", "{4D8D6B4B-3946-4455-86FE-A85B84D116B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6767FF-04B7-4546-889F-FE9673945EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6767FF-04B7-4546-889F-FE9673945EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6767FF-04B7-4546-889F-FE9673945EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6767FF-04B7-4546-889F-FE9673945EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8D6B4B-3946-4455-86FE-A85B84D116B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8D6B4B-3946-4455-86FE-A85B84D116B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8D6B4B-3946-4455-86FE-A85B84D116B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8D6B4B-3946-4455-86FE-A85B84D116B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C87717-4CD3-48C9-8A03-33D010A65828}
+	EndGlobalSection
+EndGlobal

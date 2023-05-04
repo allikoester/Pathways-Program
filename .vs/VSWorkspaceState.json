@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Week 8",
+    "\\Week 8\\CalculatorMVC",
+    "\\Week 8\\CalculatorMVC\\CalculatorMVC",
+    "\\Week 8\\Calculator\\Calculator",
+    "\\Week 8\\MVCEx\\MVCEx",
+    "\\Week 8\\RecipeMVC",
+    "\\Week 8\\RecipeMVC\\RecipeMVC",
     "\\Week 8\\Recipes",
     "\\Week 8\\Recipes\\Recipes"
   ],
+  "SelectedNode": "\\Week 8\\RecipeMVC\\RecipeMVC\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

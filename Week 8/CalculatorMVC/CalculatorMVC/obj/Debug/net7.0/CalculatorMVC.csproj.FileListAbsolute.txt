@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\CalculatorMVC.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\CalculatorMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\CalculatorMVC.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\CalculatorMVC.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\CalculatorMVC.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\bin\Debug\net7.0\CalculatorMVC.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\bin\Debug\net7.0\CalculatorMVC.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\bin\Debug\net7.0\CalculatorMVC.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\bin\Debug\net7.0\CalculatorMVC.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\bin\Debug\net7.0\CalculatorMVC.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\CalculatorMVC.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\refint\CalculatorMVC.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\CalculatorMVC.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\CalculatorMVC.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\CalculatorMVC\CalculatorMVC\obj\Debug\net7.0\ref\CalculatorMVC.dll

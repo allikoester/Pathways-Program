@@ -1,0 +1,15 @@
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\bin\Debug\net7.0\PricingEngine.exe
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\bin\Debug\net7.0\PricingEngine.deps.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\bin\Debug\net7.0\PricingEngine.runtimeconfig.json
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\bin\Debug\net7.0\PricingEngine.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\bin\Debug\net7.0\PricingEngine.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\PricingEngine.csproj.AssemblyReference.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\PricingEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\PricingEngine.AssemblyInfoInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\PricingEngine.AssemblyInfo.cs
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\PricingEngine.csproj.CoreCompileInputs.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\PricingEngine.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\refint\PricingEngine.dll
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\PricingEngine.pdb
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\PricingEngine.genruntimeconfig.cache
+C:\Users\AKoester\Desktop\Pathways Program\Week 8\PricingEngine\PricingEngine\obj\Debug\net7.0\ref\PricingEngine.dll
