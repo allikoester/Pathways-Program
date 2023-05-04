@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Bank
-build_property.ProjectDir = C:\Users\AKoester\Desktop\Pathways Program\Week 8\Bank\Bank\
+build_property.RootNamespace = BankTests
+build_property.ProjectDir = c:\Users\AKoester\Desktop\Pathways Program\Stage II\Week 8\Bank\BankTests\
